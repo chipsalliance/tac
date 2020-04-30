@@ -32,7 +32,7 @@ When applying to move from Sandbox » Incubating or Incubating » Graduated, ple
 * Link to draft mission statement:
 * Link to logo in .svg format
 * Confirmation that the project adopts the [CHIPS Alliance Code of Conduct](CODE_OF_CONDUCT.md) upon acceptance:
-* Confirmation that the project will adopt the [CHIPS Alliance IP policy](/CHARTER.md#intellectual-property-policy) upon acceptance:
+* Confirmation that the project will adopt the [CHIPS Alliance IP policy](https://github.com/chipsalliance/tsc/blob/master/CHARTER.md#7-intellectual-property-policy) upon acceptance:
 * Confirmaton that the project will add CHIPS Alliance header or footer text and links to its websites upon acceptance:
 * Confirmation that the project will transfer any registered trademarks and domain names to the Linux Foundation upon acceptance:
 * **For code projects** Confirmation that the project is in active use by three independent end-users at an adequate size and scope, as evaluated by the TSC:
