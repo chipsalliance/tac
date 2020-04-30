@@ -2,13 +2,13 @@
 
 CHIPS Alliance is a group of open source projects which develop high-quality, open source hardware designs relevant to silicon devices and FPGAs. By creating an open and collaborative environment, CHIPS Alliance shares resources to lower the cost of development. All CHIPS Alliance development occurs on [GitHub](https://github.com/chipsalliance), following open source best practices.
 
-The technical projects under the CHIPS Alliance TSC are supported by the [CHIPS Alliance](https://chipsalliance.org), an independent nonprofit organization with open and neutral governance, hosted under the [Linux Foundation](https://linuxfoundation.org). 
+The technical projects under the CHIPS Alliance TSC are supported by the [CHIPS Alliance](https://chipsalliance.org), an independent nonprofit organization with open and neutral governance, hosted under the [Linux Foundation](https://linuxfoundation.org).
 
 [Learn more about the CHIPS Alliance »](https://chipsalliance.org)
 
 ## Technical governance
 
-CHIPS Alliance follows industry best practices, with the technical project and its governance distinctly separate from the CHIPS Alliance. The [Technical Charter](LINK TO CHARTER.md) establishes the CHIPS Alliance Technical Steering Committee as the body which oversees all technical aspects of the open source project. By contrast, the [CHIPS Alliance](https://chipsalliance.org) Governing Board is responsible for raising and distributing funds to support project activities, and setting policy. While the two groups are separate, they work in close coordination to establish, guide, and support activities that lead to a long-term, sustainable future for CHIPS Alliance.
+CHIPS Alliance follows industry best practices, with the technical project and its governance distinctly separate from the CHIPS Alliance. The [Technical Charter](https://github.com/chipsalliance/tsc/blob/master/CHARTER.md) establishes the CHIPS Alliance Technical Steering Committee as the body which oversees all technical aspects of the open source project. By contrast, the [CHIPS Alliance](https://chipsalliance.org) Governing Board is responsible for raising and distributing funds to support project activities, and setting policy. While the two groups are separate, they work in close coordination to establish, guide, and support activities that lead to a long-term, sustainable future for CHIPS Alliance.
 
 ### Contributors
 
@@ -41,9 +41,9 @@ Committership can be revoked under rare circumstances, such as when a committer 
 
 #### Ensure your contribution complies with the CHIPS Alliance IP Policy
 
-All contributions to CHIPS Alliance projects must adhere to the [CHIPS Alliance IP policy](/CHARTER.md#intellectual-property-policy).
+All contributions to CHIPS Alliance projects must adhere to the [CHIPS Alliance IP policy](https://github.com/chipsalliance/tsc/blob/master/CHARTER.md#intellectual-property-policy).
 
-Please review the [Technical Charter](CHARTER.md) to ensure you understand the requirements of the open source project. If you have questions, please [file an issue](https://github.com/chipsalliance/tsc/issues).
+Please review the [Technical Charter](https://github.com/chipsalliance/tsc/blob/master/CHARTER.md) to ensure you understand the requirements of the open source project. If you have questions, please [file an issue](https://github.com/chipsalliance/tsc/issues).
 
 #### Sign the CLA
 
