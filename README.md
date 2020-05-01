@@ -12,7 +12,7 @@ In addition, as provided under the Technical Charter, CHIPS Alliance has adopted
 
 ### Mailing List
 
-The TSC for CHIPS Alliance can be reached at [technical-discuss](https://lists.chipsalliance.org/g/technical-discuss).
+The CHIPS Alliance TSC can be reached at [technical-discuss](https://lists.chipsalliance.org/g/technical-discuss). This mailing list is open for anyone to join, and all are welcome to participate in general technical discussions about the project.
 
 ### Slack
 

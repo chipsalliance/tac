@@ -8,11 +8,11 @@ The technical projects under the CHIPS Alliance TSC are supported by the [CHIPS 
 
 ## Technical governance
 
-CHIPS Alliance follows industry best practices, with the technical project and its governance distinctly separate from the CHIPS Alliance. The [Technical Charter](https://github.com/chipsalliance/tsc/blob/master/CHARTER.md) establishes the CHIPS Alliance Technical Steering Committee as the body which oversees all technical aspects of the open source project. By contrast, the [CHIPS Alliance](https://chipsalliance.org) Governing Board is responsible for raising and distributing funds to support project activities, and setting policy. While the two groups are separate, they work in close coordination to establish, guide, and support activities that lead to a long-term, sustainable future for CHIPS Alliance.
+CHIPS Alliance follows industry best practices, with the technical project and its governance distinctly separate from [CHIPS Alliance membership](https://chipsalliance.org/join). The [Technical Charter](https://github.com/chipsalliance/tsc/blob/master/CHARTER.md) establishes the CHIPS Alliance Technical Steering Committee as the body which oversees all technical aspects of the open source project. By contrast, the [CHIPS Alliance Governing Board](https://chipsalliance.org/about/governance/) is responsible for raising and distributing funds to support project activities, and setting policy. While the two groups are separate, they work in close coordination to establish, guide, and support activities that lead to a long-term, sustainable future for CHIPS Alliance.
 
 ### Contributors
 
-Contributors are any members of the open source community who participate in project develompent. Contributors may participate on their own behalf or on behalf of their employer. Membership in the [CHIPS Alliance](https://chipsalliance.org) is not required in order to contribute, although contributors must have signed a CLA prior to their code being merged (see below).
+Contributors are any members of the open source community who participate in project develompent. Contributors may participate on their own behalf or on behalf of their employer. [Membership in the CHIPS Alliance](https://chipsalliance.org/join) is not required in order to contribute, although contributors must have signed a CLA prior to their code being merged (see below).
 
 ### Committers
 
