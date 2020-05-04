@@ -45,11 +45,11 @@ The TSC is granted oversight over all CHIPS Alliance technical projects and work
 
 ### Mission Statements
 
-Each project must have a mission statement ([template](projects/MISSION_STATEMENT_TEMPLATE.md)) which describes its purpose and governance. Changes to mission statements must be reviewed and approved by the TSC.
+Each project must have a mission statement ([template](./projects/MISSION_STATEMENT_TEMPLATE.md)) which describes its purpose and governance. Changes to mission statements must be reviewed and approved by the TSC.
 
 ### Lifecycle
 
-Each project is categorized according to a [project lifecycle process](projects/), managed by the TSC. Projects and workgroups will have different maturity levels, and the lifecycle process seeks to balance their needs and expectations with available resources.
+Each project is categorized according to a [project lifecycle process](./projects/), managed by the TSC. Projects and workgroups will have different maturity levels, and the lifecycle process seeks to balance their needs and expectations with available resources.
 
 #### Project categories
 
@@ -65,7 +65,22 @@ Each project is categorized according to a [project lifecycle process](projects/
 
 The TSC has sole authority over a project's lifecycle stage and workgroup, including the decision to accept or reject project proposals. It also may create or consolidate workgroups at its discretion.
 
-### List of projects by workgroup
+#### Instantiating projects
+
+All projects will go through the onboarding process. At a high level, this includes:
+
+* Completing a mission statement, which will be hosted in the [projects](./projects) directory.
+* Completing a [project application template](./projects/PROJECT_APPLICATION_TEMPLATE.md) through incubating stage, at least.
+* Adding core collaborators to a GitHub team in the CHIPS Alliance organization.
+* Transferring repositories to the CHIPS Alliance.
+* Setting up a project mailing list on the CHIPS Alliance domain.
+* Adding CHIPS Alliance footers and notices to project websites.
+* Designating a representative to the project's workgroup.
+* Designating a representative to attend TSC meetings (as a voting member or participant).
+
+Linux Foundation staff are able to help with this process.
+
+<!--### List of projects by workgroup
 
 #### Workgroup A
 
@@ -79,7 +94,7 @@ The TSC has sole authority over a project's lifecycle stage and workgroup, inclu
 
 #### Archived projects
 
-* [Project 6](LINK-TO-PROJECT-6)
+* [Project 6](LINK-TO-PROJECT-6)-->
 
 ## Policies and procedures
 
@@ -208,7 +223,7 @@ For help with project infrastructure please contact [operations@chipsalliance.or
 
 #### New members
 
-CHIPS Alliance welcomes new members, and we would be happy to help answer any questions you may have. To learn more about membership, please visit [https://chipsalliance.org/join](https://chipsalliance.org/join) or email [membership@chipsalliance.org](mailto:membership@chipsalliance.org)
+CHIPS Alliance welcomes new members, and we would be happy to help answer any questions you may have. To learn more about membership, please visit [https://chipsalliance.org/join](https://chipsalliance.org/join) or email [membership@chipsalliance.org](mailto:membership@chipsalliance.org).
 
 #### Existing members
 
