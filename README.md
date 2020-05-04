@@ -137,7 +137,7 @@ CHIPS Alliance projects should use one of the following notices on their website
 
 ##### For HTML sites
 > ```
-> Copyright CHIPS Alliance Project a Series of LF Projects, LLC. For web site terms of use, trademark policy and general project policies please see <a href="https://lfprojects.org">https://lfprojects.org</a>.
+> Copyright CHIPS Alliance Project a Series of LF Projects, LLC.<br>For web site terms of use, trademark policy and general project policies please see <a href="https://lfprojects.org">https://lfprojects.org</a>.
 > ```
 
 ##### For markdown sites, including GitHub READMEs
@@ -145,10 +145,85 @@ CHIPS Alliance projects should use one of the following notices on their website
 > ```
 > ---
 >
-> Copyright CHIPS Alliance Project a Series of LF Projects, LLC. For web site terms of use, trademark policy and general project policies please see [https://lfprojects.org](https://lfprojects.org).
+> **Copyright CHIPS Alliance Project a Series of LF Projects, LLC.**  
+> For web site terms of use, trademark policy and general project policies please see [https://lfprojects.org](https://lfprojects.org).
 > ```
+
+### Creating and managing GitHub repos in the CHIPS Alliance organization
+
+CHIPS Alliance projects are welcomed and encouraged to host their repositories within the [CHIPS Alliance organization](https://github.com/chipsalliance).
+
+#### Adding repositories to the organization
+
+Repositories may be transferred into or created under the CHIPS Alliance organization so long as:
+
+* They adhere to the CHIPS Alliance IP policy.
+* They are directly operated by a CHIPS Alliance project.
+* The TSC achieves rough consensus about adding the repository.
+
+Sometimes projects will rely upon other external repositories (e.g., tooling or dependencies). While it is a best practice to work upstream whenever possible, there may be situations where a downstream fork is required. In this situation, rough consensus on the TSC is sufficient to create a new fork.
+
+Finally, non-technical repositories may be needed for admin purposes, and may be created by staff from time to time.
+
+#### Keeping the organization tidy
+
+Because CHIPS Alliance contains multiple projects, please use a consistent and descriptive naming convention that will group all related repositories together when sorted alphabetically. For example:
+
+* project1
+* project1-website
+* project1-admin
+* project2
+* project2-ci
+* project2-mentorship
+* project2-website
+* ...
+
+The best time to rename a repo is when it is transferred into the CHIPS Alliance organization. GitHub ensures that [all links to the prior repository are automatically redirected to the new location](https://help.github.com/en/github/administering-a-repository/transferring-a-repository), and [links to the repository are preserved when a repository is renamed](https://help.github.com/en/github/administering-a-repository/renaming-a-repository). This means that `git clone`, `git fetch`, `git pull`, and `git push` will function without requiring any changes from existing users.
+
+#### Repository configuration and management
+
+All CHIPS Alliance repositories containing technical information must be set to public.
+
+To help ensure effective repo management, each project should manage a GitHub team of its committers within the CHIPS Alliance org. That team should be added to any repository to which they should have commit rights.
+
+#### Archiving repositories
+
+The TSC may choose to move repositories to an archived state, at its own discretion. Most often this will occur if there are concerns about a repository being unmaintained, but may also happen if two efforts are consolidating and one codebase is being kept for archival purposes.
+
+## Getting Help
+
+### Help with project infrastructure
+
+Membership in the CHIPS Alliance helps to fund collaborative infrastructure used by our projects.
+
+For help with project infrastructure please contact [operations@chipsalliance.org](mailto:operations@chipsalliance.org). Examples of ways the Linux Foundation can help include:
+
+* Adding and removing members from GitHub teams
+* Creating and archiving repositories
+* Creating and managing mailing lists on the lists.chipsalliance.org domain
+* Managing DNS (for projects which host their nameserver with the LF)
+* Creating and managing email aliases (for projects which host their nameserver with the LF)
+
+### Help with membership
+
+#### New members
+
+CHIPS Alliance welcomes new members, and we would be happy to help answer any questions you may have. To learn more about membership, please visit [https://chipsalliance.org/join](https://chipsalliance.org/join) or email [membership@chipsalliance.org](mailto:membership@chipsalliance.org)
+
+#### Existing members
+
+CHIPS Alliance members can get help with anything related to their membership by emailing [operations@chipsalliance.org](mailto:operations@chipsalliance.org).
+
+### Help with press and media
+
+For help with press and media inquiries, or to let the CHIPS Alliance marketing committee know about something exciting happening in your project (releases, major milestones, ecosystem events, etc.) please email [pr@chipsalliance.org](mailto:pr@chipsalliance.org).
+
+### All other topics
+
+For any other topics which aren't covered above, please email [operations@chipsalliance.org](mailto:operations@chipsalliance.org).
 
 ---
 
-Copyright CHIPS Alliance Project a Series of LF Projects, LLC. For web site terms of use, trademark policy and general project policies please see [https://lfprojects.org](https://lfprojects.org).
+**Copyright CHIPS Alliance Project a Series of LF Projects, LLC.**  
+For web site terms of use, trademark policy and general project policies please see [https://lfprojects.org](https://lfprojects.org).
 
