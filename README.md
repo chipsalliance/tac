@@ -71,7 +71,7 @@ All projects will go through the onboarding process. At a high level, this inclu
 
 * Completing a mission statement, which will be hosted in the [projects](./projects) directory.
 * Completing a [project application template](./projects/PROJECT_APPLICATION_TEMPLATE.md) through incubating stage, at least.
-* Adding core collaborators to a GitHub team in the CHIPS Alliance organization.
+* Adding core collaborators to a GitHub team in the CHIPS Alliance organization under [Project Leadership](https://github.com/orgs/chipsalliance/teams/project-leadership/teams).
 * Transferring repositories to the CHIPS Alliance.
 * Setting up a project mailing list on the CHIPS Alliance domain.
 * Adding CHIPS Alliance footers and notices to project websites.
