@@ -12,15 +12,19 @@ In addition, as provided under the Technical Charter, CHIPS Alliance has adopted
 
 This repo documents the day-to-day policies and procedures of the CHIPS Alliance TSC. It provides a framework for self-governance, and addresses topics too granular for the [Technical Charter](CHARTER.md).
 
-Here are some things to help you find your way:
+This repository has the following structure:
+
+- [drafts](./drafts) - drafts of our internal documents
+- [meetings](./meetings) - our meeting agendas and minutes
+- [projects](./projects) - list of projects in different lifecycle stages
+- [proposals](./proposals) - policy proposals under consideration
+
+Here are some other links to help you find your way:
 
 * [An introduction to our collaboration tools](#collaboration-tools)
 * [Our policies and procedures](#policies-and-procedures)
-* [Our meeting agendas and minutes](./meetings/)
-* [The current voting members of the TSC](#tsc-members), but please note anyone can participate in our [meetings](#calendars-and-meetings)
-* [Projects and Workgroups of the CHIPS Alliance](#projects-and-workgroups) that have completed TSC onboarding
-* [How to become a CHIPS Alliance project](./projects)
-* [Policy proposals under consideration](./proposals)
+* [The current voting members of the TSC](#tsc-members) (please note anyone can participate in our [meetings](#calendars-and-meetings) as a non-voting attendee)
+* [Projects and Workgroups of the CHIPS Alliance](#projects-and-workgroups)
 
 Finally, if you need help, please [reach out and ask](#getting-help).
 
