@@ -8,6 +8,26 @@ The CHIPS Alliance TSC is governed by a [Technical Charter](CHARTER.md), which e
 
 In addition, as provided under the Technical Charter, CHIPS Alliance has adopted a [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) that applies to all CHIPS Alliance activities and spaces.
 
+## Getting Oriented
+
+This repo documents the day-to-day policies and procedures of the CHIPS Alliance TSC. It provides a framework for self-governance, and addresses topics too granular for the [Technical Charter](CHARTER.md).
+
+This repository has the following structure:
+
+- [drafts](./drafts) - drafts of our internal documents
+- [meetings](./meetings) - our meeting agendas and minutes
+- [projects](./projects) - list of projects in different lifecycle stages
+- [proposals](./proposals) - policy proposals under consideration
+
+Here are some other links to help you find your way:
+
+* [An introduction to our collaboration tools](#collaboration-tools)
+* [Our policies and procedures](#policies-and-procedures)
+* [The current voting members of the TSC](#tsc-members) (please note anyone can participate in our [meetings](#calendars-and-meetings) as a non-voting attendee)
+* [Projects and Workgroups of the CHIPS Alliance](#projects-and-workgroups)
+
+Finally, if you need help, please [reach out and ask](#getting-help).
+
 ## Collaboration Tools
 
 ### Mailing List
@@ -27,6 +47,8 @@ CHIPS Alliance uses Zoom for meetings. Because we work in a highly distributed e
 To join a TSC meeting: [https://zoom.us/j/96738269957](https://zoom.us/j/96738269957) (pw: chipstsc)
 
 ## TSC Members
+
+Per the Technical Charter, the TSC will initially be comprised of the chairs of the current workgroups, with the expectation that each will have at least one Incubating or Graduated project within 6 months of the initial meeting.  Each workgroup will [determine their own representative to the TSC](https://github.com/chipsalliance/tsc/blob/master/drafts/CONTRIBUTING.md#workgroup-chairs).
 
 The current members of the CHIPS Alliance TSC are:
 
