@@ -69,7 +69,7 @@ However, achieving Graduated status requires more than maturity and adoption. Th
 1. The project must have a substantial ongoing flow of commits and merged contributions.
 1. The project must use a clear versioning scheme.
 1. The project must have a [draft mission statement](./MISSION_STATEMENT_TEMPLATE.md) prepared for TSC approval.
-1. The project must internally pre-approve the Code of Conduct, IP Policy, and [header/footer for websites](https://github.com/chipsalliance/tsc#website-footers) so that they are in effect upon project acceptance by the TSC.
+1. The project must internally pre-approve the Code of Conduct, IP Policy, and [header/footer for websites](https://github.com/chipsalliance/tsc/blob/main/README.md#website-footers) so that they are in effect upon project acceptance by the TSC.
 1. The project must be prepared to transfer any registered trademarks and domain names to the Linux Foundation upon acceptance.
 1. The project must complete an application based upon the [project application template](./PROJECT_APPLICATION_TEMPLATE.md) (or modify its existing Sandbox application), copy it to the [graduated](graduated) directory, and open a PR against the TSC repo with the `tsc-meeting` and `graduation-application` labels.
 1. The project must join a TSC meeting to present its proposal.
