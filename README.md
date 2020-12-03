@@ -48,7 +48,7 @@ To join a TSC meeting: [https://zoom.us/j/96738269957](https://zoom.us/j/9673826
 
 ## TSC Members
 
-Per the Technical Charter, the TSC will initially be comprised of the chairs of the current workgroups, with the expectation that each will have at least one Incubating or Graduated project within 6 months of the initial meeting.  Each workgroup will [determine their own representative to the TSC](https://github.com/chipsalliance/tsc/blob/master/drafts/CONTRIBUTING.md#workgroup-chairs).
+Per the Technical Charter, the TSC will initially be comprised of the chairs of the current workgroups, with the expectation that each will have at least one Graduated project within 6 months of the initial meeting.  Each workgroup will [determine their own representative to the TSC](https://github.com/chipsalliance/tsc/blob/master/drafts/CONTRIBUTING.md#workgroup-chairs).
 
 The current members of the CHIPS Alliance TSC are:
 
@@ -76,14 +76,13 @@ Each project is categorized according to a [project lifecycle process](./project
 #### Project categories
 
 * **[Sandbox](projects/README.md#sandbox)**: Optional pre-membership stage to help a project prepare for the TSC's consideration. Sandbox projects are not yet part of CHIPS Alliance, but may be allocated TSC resources to help with the process.
-* **[Incubating](projects/README.md#incubating)**: A project which has been accepted by the TSC and assigned to a workgroup.
-* **[Graduated](projects/README.md#graduated)**: A project which has met the graduation requirements and demonstrated sustainable momentum.
-* **[Archived](projects/README.md#archived)**: A former Incubating or Graduated project which has been archived for strategic or practical reasons.
+* **[Graduated](projects/README.md#graduated)**: A project which has been accepted by the TSC, assigned to a workgroup, met the graduation requirements, and demonstrated sustainable momentum.
+* **[Archived](projects/README.md#archived)**: A former Graduated project which has been archived for strategic or practical reasons.
 
 #### Workgroup levels
 
-* **Active**: Contains at least one Incubating or Graduated project.
-* **Archived**: No longer contains any Incubating or Graduated projects.
+* **Active**: Contains at least one Graduated project.
+* **Archived**: No longer contains any Graduated projects.
 
 The TSC has sole authority over a project's lifecycle stage and workgroup, including the decision to accept or reject project proposals. It also may create or consolidate workgroups at its discretion.
 
@@ -92,7 +91,7 @@ The TSC has sole authority over a project's lifecycle stage and workgroup, inclu
 All projects will go through the onboarding process. At a high level, this includes:
 
 * Completing a mission statement, which will be hosted in the [projects](./projects) directory.
-* Completing a [project application template](./projects/PROJECT_APPLICATION_TEMPLATE.md) through incubating stage, at least.
+* Completing a [project application template](./projects/PROJECT_APPLICATION_TEMPLATE.md) through Graduated stage, at least.
 * Adding core collaborators to a GitHub team in the CHIPS Alliance organization under [Project Leadership](https://github.com/orgs/chipsalliance/teams/project-leadership/teams).
 * Transferring repositories to the CHIPS Alliance.
 * Setting up a project mailing list on the CHIPS Alliance domain.
@@ -107,11 +106,11 @@ Linux Foundation staff are able to help with this process.
 #### Workgroup A
 
 * [Project 1](LINK-TO-PROJECT-1) (Graduated)
-* [Project 2](LINK-TO-PROJECT-2) (Incubating)
+* [Project 2](LINK-TO-PROJECT-2) (Graduated)
 
 #### Workgroup B
 
-* [Project 3](LINK-TO-PROJECT-3) (Incubating)
+* [Project 3](LINK-TO-PROJECT-3) (Graduated)
 * [Project 4](LINK-TO-PROJECT-4) (Sandbox)
 
 #### Archived projects
