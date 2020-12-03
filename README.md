@@ -131,6 +131,10 @@ The CHIPS Alliance TSC is governed by the [Technical Charter](CHARTER.md). The C
 
 The following policies and procedures have been adopted by the TSC.
 
+### Reporting security vulnerabilities
+
+All CHIPS Alliance projects **must** have a process for receiving security vulnerability reports. If a project does not have its own process, the default policy is to send a detailed disclosure to [security@lists.chipsalliance.org](mailto:security@lists.chipsalliance.org). This is a confidential mailing list, and the TSC chair and a small group of trusted individuals will review and act upon the report as appropriate.
+
 ### Merging PRs into the TSC repository
 
 Pull requests that do not change the charter or governance of the TSC can be merged into this repository provided the following conditions have been met:
