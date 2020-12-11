@@ -11,10 +11,9 @@ When applying to move from Sandbox » Graduated, please modify the existing appl
 ### Sandbox application
 
 * Project name:
-* Project repo:
+* Project repo(s):
 * Brief summary of the project:
 * Project's open source license:
-* Link to source control:
 * Link to issue tracker:
 * Link to website:
 * Links to social media accounts:
@@ -40,7 +39,6 @@ When applying to move from Sandbox » Graduated, please modify the existing appl
 * Confirmation that the project will add CHIPS Alliance header or footer text and links to its websites upon acceptance:
 * Confirmation that the project will transfer any registered trademarks and domain names to the Linux Foundation upon acceptance:
 * Link to documented process for reporting security vulnerabilities:
-* **For code projects** Confirmation that the project is in active use by three independent end-users at an adequate size and scope, as evaluated by the TSC:
 * **For specifications** Confirmation there is at least one public reference implementation:
 * Primary contact from the project during the Graduation process:
  * Name:
