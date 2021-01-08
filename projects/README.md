@@ -8,7 +8,7 @@ There are three project categories:
 
 * [Sandbox](#sandbox): Optional pre-membership stage to help a project prepare for the TSC's consideration.
 * [Graduated](#graduated): A project which has met the graduation requirements and demonstrated sustainable momentum.
-* [Archived](#archived): When an Archival proposal is accepted, the PR may be landed and closed.): A former Graduated project which has been archived for strategic or practical reasons.
+* [Archived](#archived): A former Graduated project which has been archived for strategic or practical reasons.
 
 
 ## Sandbox
