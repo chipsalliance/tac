@@ -4,13 +4,13 @@ The CHIPS Alliance TSC will be responsible for all technical oversight of the op
 
 ## Technical Charter and Code of Conduct
 
-The CHIPS Alliance TSC is governed by a [Technical Charter](CHARTER.md), which establishes the Committee and its basic principles and procedures. The charter is designed to provide the TSC the freedom to govern itself in an efficient manner. This document establishes TSC policies and procedures.
+The CHIPS Alliance TSC is governed by a [Technical Charter](https://technical-charter.chipsalliance.org), which establishes the Committee and its basic principles and procedures. The charter is designed to provide the TSC the freedom to govern itself in an efficient manner. This document establishes TSC policies and procedures.
 
 In addition, as provided under the Technical Charter, CHIPS Alliance has adopted a [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) that applies to all CHIPS Alliance activities and spaces.
 
 ## Getting Oriented
 
-This repo documents the day-to-day policies and procedures of the CHIPS Alliance TSC. It provides a framework for self-governance, and addresses topics too granular for the [Technical Charter](CHARTER.md).
+This repo documents the day-to-day policies and procedures of the CHIPS Alliance TSC. It provides a framework for self-governance, and addresses topics too granular for the [Technical Charter](https://technical-charter.chipsalliance.org).
 
 This repository has the following structure:
 
@@ -59,7 +59,7 @@ The current members of the CHIPS Alliance TSC are:
 
 ### Becoming a TSC Member
 
-The [Technical Charter](CHARTER.md) describes the composition of the TSC.
+The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
 
 ## Projects and Workgroups
 
@@ -127,7 +127,7 @@ The CHIPS Alliance TSC is grateful to the broader open source ecosystem, and is 
 
 ## Policies and procedures
 
-The CHIPS Alliance TSC is governed by the [Technical Charter](CHARTER.md). The Charter provides a foundational structure for the TSC on topics such as its scope, how to make decisions, and how to make changes to itself. At the same time, it grants the TSC a high degree of freedom when determining how to implement the policies of CHIPS Alliance.
+The CHIPS Alliance TSC is governed by the [Technical Charter](https://technical-charter.chipsalliance.org). The Charter provides a foundational structure for the TSC on topics such as its scope, how to make decisions, and how to make changes to itself. At the same time, it grants the TSC a high degree of freedom when determining how to implement the policies of CHIPS Alliance.
 
 The following policies and procedures have been adopted by the TSC.
 
@@ -145,7 +145,7 @@ Pull requests that do not change the charter or governance of the TSC can be mer
 
 Pull requests that change governance of the TSC (excluding the charter) must be open for at least 14 days, unless consensus is reached in a meeting with quorum of voting members.
 
-Pull requests that change the charter of the TSC must meet any requirements in the [charter](CHARTER.md).
+Pull requests that change the charter of the TSC must meet any requirements in the [charter](https://technical-charter.chipsalliance.org).
 
 If consensus cannot be reached, a pull request may still be landed after a vote by the Voting members to override outstanding objections.
 
@@ -169,7 +169,7 @@ TSC members may request fast-tracking of pull requests they did not author. In t
 
 ### IP Policy
 
-The CHIPS Alliance IP policy is contained in the [charter](CHARTER.md), and it applies to all CHIPS Alliance projects unless an exception is explicitly approved by the TSC.
+The CHIPS Alliance IP policy is contained in the [charter](https://technical-charter.chipsalliance.org), and it applies to all CHIPS Alliance projects unless an exception is explicitly approved by the TSC.
 
 #### Copyright notices
 
@@ -275,3 +275,4 @@ For any other topics which aren't covered above, please email [operations@chipsa
 **Copyright CHIPS Alliance Project a Series of LF Projects, LLC.**  
 For web site terms of use, trademark policy and general project policies please see [https://lfprojects.org](https://lfprojects.org).
 
+https://technical-charter.chipsalliance.org
