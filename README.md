@@ -40,7 +40,7 @@ The CHIPS Alliance maintains a [Slack Workspace](https://slack.chipsalliance.org
 
 ### Calendars and Meetings
 
-The CHIPS Alliance maintains a [public calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_ik78i4dsvm5sll7hgo1j54i1ls%40group.calendar.google.com) for TSC meetings. These meetings are open for anyone to join.
+The CHIPS Alliance maintains a [public calendar](https://calendar.chipsalliance.org) for TSC meetings. These meetings are open for anyone to join.
 
 CHIPS Alliance uses Zoom for meetings. Because we work in a highly distributed environment and will rarely meet in person, participants are encouraged to use video as appropriate.
 
