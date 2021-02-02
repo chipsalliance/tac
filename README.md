@@ -55,7 +55,7 @@ The current members of the CHIPS Alliance TSC are:
 | Name                      | GitHub                                              | Affiliation | Term begins  | Term ends    |
 | ------------------------- | --------------------------------------------------- | ------------|--------------|--------------|
 | Henry Cook (chair)        |[hcook](https://github.com/hcook)                    | SiFive      | (appointed)  | (appointed)  |
-
+| Michael Gielda            |[mgielda](https://github.com/mgielda)                | Antmicro    | (appointed)  | (appointed)  |
 
 ### Becoming a TSC Member
 
