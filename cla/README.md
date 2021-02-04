@@ -1,8 +1,10 @@
 # CHIPS Alliance CLA
 
-All contributors must sign the CHIPS Alliance CLA ([individual](./CHIPS_Alliance-ICLA-v7-preview.pdf) or [corporate](./CHIPS_Alliance-CCLA-v7-preview.pdf)) prior to any contributions being merged. In addition, if you are participating in a specification project, you must sign the CLA and also the OWFa agreement ([individual](./CHIPS_Alliance-ICLA_with_OWFa_1.0-v7-preview.pdf) or [corporate](./CHIPS_Alliance-CCLA_with_OWFa_1.0-v7-preview.pdf)). 
+All contributors must sign the CHIPS Alliance CLA ([individual](./CHIPS_Alliance-ICLA-v7-preview.pdf) / [corporate](./CHIPS_Alliance-CCLA-v7-preview.pdf)) prior to any contributions being merged. In addition, if you are participating in a specification project, you must sign the CLA and also the OWFa agreement ([individual](./CHIPS_Alliance-ICLA_with_OWFa_1.0-v7-preview.pdf) / [corporate](./CHIPS_Alliance-CCLA_with_OWFa_1.0-v7-preview.pdf)). 
 
 There is no cost, and once you've signed both documents you will be able to contribute to all CHIPS Alliance projects.
+
+Please note that this is different from [membership in the CHIPS Alliance](https://chipsalliance.org/join). If your organization relies upon our projects, please become a member. Membership dues are the single source of essential funding that we rely upon to support the CHIPS Alliance ecosystem.
 
 ### Who signs the documents?
 
@@ -19,7 +21,7 @@ At a high level, the signature process works like this:
 
 ### Initiating the signature process against a test repo
 
-The easiest way to initial the process is to open a trivial PR against one of the test repos. Just fork each of these repos, make a trivial change, open a PR, and follow the steps.
+The easiest way to initiate the process is to open a trivial PR against one of the test repos. Just fork each of these repos, make a trivial change, open a PR, and follow the steps.
 
 * [Projects that produce only code (CLA only)](https://github.com/chipsalliance/CLA-test-codeonly)
 * [Projects that produce a spec and, optionally, code (CLA & OWFa)](https://github.com/chipsalliance/CLA-test-code_spec)
