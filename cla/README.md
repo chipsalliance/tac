@@ -55,9 +55,9 @@ If you are doing work for someone else (e.g., it's your job), the company might 
   * Add your GitHub username individually to the list of authorized contributors, or
   * Authorize any GitHub user with an email matching the corporate domain, or
   * Authorize any user who is a member of your company's GitHub org.
-1. Once this is done, you'll probably need to click the *Details* link in the PR and click a button that acknowledges you want to be covered by the company.
-1. Wait a little while for the check to re-run.
-1. Repeat the process with the other test repo.
+2. Once this is done, you'll probably need to click the *Details* link in the PR and click a button that acknowledges you want to be covered by the company.
+3. Wait a little while for the check to re-run.
+4. Repeat the process with the other test repo.
 
 At this point, your PRs will no longer be blocked by EasyCLA on any CHIPS Alliance repo.
 
