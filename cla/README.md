@@ -23,8 +23,8 @@ At a high level, the signature process works like this:
 
 The easiest way to initiate the process is to open a trivial PR against one of the test repos. Just fork each of these repos, make a trivial change, open a PR, and follow the steps.
 
-* [Projects that produce only code (CLA only)](https://github.com/chipsalliance/CLA-test-codeonly)
-* [Projects that produce a spec and, optionally, code (CLA & OWFa)](https://github.com/chipsalliance/CLA-test-code_spec)
+* [Projects that produce only code (CLA only)](https://github.com/chipsalliance/EasyCLA-code_only)
+* [Projects that produce a spec and, optionally, code (CLA & OWFa)](https://github.com/chipsalliance/EasyCLA-specs_and_code)
 
 ## Sign as an individual
 
