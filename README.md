@@ -119,9 +119,9 @@ Linux Foundation staff are able to help with this process.
 
 ### The CHIPS Alliance Commons: Related projects and initiatives
 
-The CHIPS Alliance exists within a rich ecosystem of interrelated projects. While the TSC's first objective is to support the success of CHIPS Alliance projects, it also acknowledges the critical strategic roles played by external projects. Collectively, we refer to these projects as "The CHIPS Alliance Commons".
+The CHIPS Alliance exists within a rich ecosystem of interrelated projects. While the TSC's first objective is to support the success of CHIPS Alliance projects, it also acknowledges the critical strategic roles played by external open source projects. Collectively, we refer to these projects as "The CHIPS Alliance Commons".
 
-Although these projects remain outside of the CHIPS Alliance organization and its policies, the TSC may recognize these projects in various ways. For example, the TSC can maintain a list of strategic projects, or make an effort to include their participants and maintainers in relevant TSC discussions.
+Although these projects remain outside of the CHIPS Alliance organization and its policies, the TSC may recognize these projects in various ways. For example, the TSC can maintain a list of strategic open source projects, or make an effort to include their participants and maintainers in relevant TSC discussions.
 
 The CHIPS Alliance TSC is grateful to the broader open source ecosystem, and is looking forward to healthy collaboration within and external to the Alliance.
 
