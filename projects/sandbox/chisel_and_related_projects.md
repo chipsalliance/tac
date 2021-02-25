@@ -1,18 +1,10 @@
-# Project application: Chisel Working Group
-
-To apply to become a CHIPS Alliance project, copy this template and open a PR against the TSC repo and add the `tsc-meeting` label. Projects applying for Sandbox status should add the `sandbox-application` label. Projects applying for Graduated status should add the `graduated-application` label.
-
-For simplicity, the CHIPS Alliance TSC uses a progressive application for Sandbox and Graduated status. The Graduated application includes all of the Sandbox questions. Project candidate should complete as much of the application as possible, as this will help determine which level is most appropriate.
-
-When applying to move from Sandbox » Graduated, please modify the existing application and update relevant fields (such as number of committers) so that the file's history is preserved.
-
-If a specific field is not applicable to your project (e.g. your project does not have dedicated social media accounts), please use N/A to signify this.
+# Project application: Chisel And Related Projects
 
 ## Application
 
 ### Sandbox application
 
-* Project name: Chisel Working Group
+* Project name: Chisel and Related Projects
 * Project repo(s): https://github.com/chipsalliance/chisel3, https://github.com/chipsalliance/firrtl, https://github.com/chipsalliance/treadle, and more to be added.
 * Brief summary of the project: Support the Chisel Hardware Construction Language and related projects
 * Project's open source license: Apache 2.0 (formerly BSD)
