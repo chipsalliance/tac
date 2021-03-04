@@ -13,7 +13,7 @@ There are three project categories:
 
 ## Sandbox
 
-*Sandbox projects* are projects which plan to join the CHIPS Alliance, but have not yet met the prerequisites to formally join. Projects may optionally make use of the Sandbox stage in order to request TSC time and attention in preparing for their application to become a part of CHIPS Alliance.
+*[Sandbox projects](https://github.com/chipsalliance/tsc/blob/HEAD/projects/sandbox)* are projects which plan to join the CHIPS Alliance, but have not yet met the prerequisites to formally join. Projects may optionally make use of the Sandbox stage in order to request TSC time and attention in preparing for their application to become a part of CHIPS Alliance.
 
 The Sandbox stage is optional, and Sandbox projects are not yet considered part of CHIPS Alliance.
 
@@ -39,7 +39,7 @@ When a Sandbox proposal is accepted, the PR may be landed.
 
 ## Graduated
 
-*Graduated projects* are projects which have applied and been formally accepted as CHIPS Alliance projects by the TSC. Graduated projects are assigned to a Workgroup, and are officially a part of CHIPS Alliance.
+*[Graduated projects](https://github.com/chipsalliance/tsc/blob/HEAD/projects/graduated)* are projects which have applied and been formally accepted as CHIPS Alliance projects by the TSC. Graduated projects are assigned to a Workgroup, and are officially a part of CHIPS Alliance.
 
 However, achieving Graduated status requires more than maturity and adoption. The TSC is run by and for the technical community, and it can only function with involvement from project leaders. Representatives from Graduated projects are expected to take an active role in TSC and CHIPS Alliance processes. For example, participating in TSC meetings, volunteering as a program committee member for events, participating in mentoring initiatives, and helping Sandbox projects prepare for their Graduated status application.
 
@@ -81,7 +81,7 @@ When a Graduated proposal is accepted, the PR may be landed.
 
 ## Archived
 
-*Archived projects* are projects which no longer have sufficient momentum to justify an active state in CHIPS Alliance. By archiving a project, CHIPS Alliance is indicating that downstream users should not expect any updates, including security fixes or backports.
+*[Archived projects](https://github.com/chipsalliance/tsc/blob/HEAD/projects/archived)* are projects which no longer have sufficient momentum to justify an active state in CHIPS Alliance. By archiving a project, CHIPS Alliance is indicating that downstream users should not expect any updates, including security fixes or backports.
 
 The decision to move a project to Archived is not taken lightly by the TSC, and each situation will be unique.  However, reasons which could lead to an Archived state may include:
 
