@@ -8,6 +8,13 @@ The CHIPS Alliance TSC is governed by a [Technical Charter](https://technical-ch
 
 In addition, as provided under the Technical Charter, CHIPS Alliance has adopted a [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) that applies to all CHIPS Alliance activities and spaces.
 
+## CHIPS Alliance Projects
+
+#### Sandbox projects
+
+* [Chisel (incl. Firrtl and treadl)](https://github.com/chipsalliance/tsc/blob/HEAD/projects/sandbox/chisel_and_related_projects.md)
+* [Rocket Chip](https://github.com/chipsalliance/tsc/blob/HEAD/projects/sandbox/rocket_chip.md)
+
 ## Getting Oriented
 
 This repo documents the day-to-day policies and procedures of the CHIPS Alliance TSC. It provides a framework for self-governance, and addresses topics too granular for the [Technical Charter](https://technical-charter.chipsalliance.org).
@@ -81,7 +88,7 @@ Each project is categorized according to a [project lifecycle process](./project
 
 #### Workgroup levels
 
-* **Active**: Contains at least one Graduated project.
+* **Active**: Contains at least one Graduated project, or a majority of the TSC has voted to create the workgroup to collaborate on future projects.
 * **Archived**: No longer contains any Graduated projects.
 
 The TSC has sole authority over a project's lifecycle stage and workgroup, including the decision to accept or reject project proposals. It also may create or consolidate workgroups at its discretion.
@@ -101,21 +108,15 @@ All projects will go through the onboarding process. At a high level, this inclu
 
 Linux Foundation staff are able to help with this process.
 
-<!--### List of projects by workgroup
+### Resources
 
-#### Workgroup A
+All Graduated projects and Active workgroups can make use of the CHIPS Alliance collaboration resourcs, including:
 
-* [Project 1](LINK-TO-PROJECT-1) (Graduated)
-* [Project 2](LINK-TO-PROJECT-2) (Graduated)
-
-#### Workgroup B
-
-* [Project 3](LINK-TO-PROJECT-3) (Graduated)
-* [Project 4](LINK-TO-PROJECT-4) (Sandbox)
-
-#### Archived projects
-
-* [Project 6](LINK-TO-PROJECT-6)-->
+* Access to the shared Zoom account
+* Meetings listed on the public [CHIPS Alliance calendar](https://calendar.chipsalliance.org)
+* Mailing lists on [lists.chipsalliance.org](https://lists.chipsalliance.org)
+* Credential storage and sharing through LastPass
+* GitHub repos and teams in the [`chipsalliance` GitHub org](https://github.com/chipsalliance)
 
 ### The CHIPS Alliance Commons: Related projects and initiatives
 
