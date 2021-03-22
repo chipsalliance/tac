@@ -1,4 +1,4 @@
-# Project application: (your project name here)
+# Project application: AIB
 
 To apply to become a CHIPS Alliance project, copy this template and open a PR against the TSC repo and add the `tsc-meeting` label. Projects applying for Sandbox status should add the `sandbox-application` label. Projects applying for Graduated status should add the `graduated-application` label.
 
