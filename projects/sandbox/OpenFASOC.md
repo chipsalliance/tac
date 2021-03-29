@@ -13,10 +13,12 @@ If a specific field is not applicable to your project (e.g. your project does no
 ### Sandbox application
 
 * Project name: OpenFASOC
-* Project repo(s): https://github.com/idea-fasoc/OpenFASOC
+* Project repo(s): 
+        * Fully open source: https://github.com/idea-fasoc/OpenFASOC
+        * Main repo: https://github.com/idea-fasoc
 * Brief summary of the project: Fully Open Source Automated Analog Block Generation built on top of OpenROAD, Magic, Netgen, Klayout and Ngspice  
 * Project's open source license: Apache-2.0
-* Link to issue tracker:
+* Link to issue tracker: https://github.com/idea-fasoc/OpenFASOC/issues
 * Link to website: https://fasoc.engin.umich.edu/
 * Links to social media accounts: 
 * Who uses this project, and at what scale: This project has been used by UMich (MICL) for many tapeouts as well as education and research. This projects has also been used to enable users who are part of the open source community (skywater 130nm, efabless).      
