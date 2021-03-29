@@ -19,8 +19,8 @@ If a specific field is not applicable to your project (e.g. your project does no
 * Link to issue tracker:
 * Link to website: https://fasoc.engin.umich.edu/
 * Links to social media accounts: 
-* Who uses this project, and at what scale: 
-* Why does the project want to join CHIPS Alliance:
+* Who uses this project, and at what scale: This project has been used by UMich (MICL) for many tapeouts as well as education and research. This projects has also been used to enable users who are part of the open source community (skywater 130nm, efabless).      
+* Why does the project want to join CHIPS Alliance: In order to actively contribute and help the analog working group (Organization, workshops, support and guidance, etc..) as well as preaching for a fully open source automated AMS design generation
 * Primary contact from the project during the Sandbox application process:
  * Name: Mehdi Saligane
  * Email: mehdi@umich.edu
