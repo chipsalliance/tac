@@ -15,6 +15,10 @@ In addition, as provided under the Technical Charter, CHIPS Alliance has adopted
 * [Chisel (incl. Firrtl and treadle)](https://github.com/chipsalliance/tsc/blob/HEAD/projects/sandbox/chisel_and_related_projects.md)
 * [Rocket Chip](https://github.com/chipsalliance/tsc/blob/HEAD/projects/sandbox/rocket_chip.md)
 
+#### Working Groups
+
+* [Analog](https://github.com/chipsalliance/tsc/blob/HEAD/working_groups/analog/README.md)
+
 ## Getting Oriented
 
 This repo documents the day-to-day policies and procedures of the CHIPS Alliance TSC. It provides a framework for self-governance, and addresses topics too granular for the [Technical Charter](https://technical-charter.chipsalliance.org).
