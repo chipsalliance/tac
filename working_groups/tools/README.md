@@ -10,7 +10,7 @@ The mission of the Tools WG will be to:
 * share and co-develop new, open source based ASIC / FPGA design methodologies
 * discuss and share experiences related to digital ASIC / FPGA design to identify gaps in the existing ecosystem and potential improvements
 * identify neighboring areas where the application of open source ASIC / FPGA design methodologies could result in radical improvements (e.g. chiplets, memory designs etc.)
-* identify ways to use open source tools in production-level, marketable solutions, raise awareness of success stories
+* identify ways to use open source tools in production-level, marketable solutions, and raise awareness of success stories
 
 ## Collaboration
 
