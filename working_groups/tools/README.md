@@ -1,6 +1,6 @@
 # Tools Working Group
 
-The Tools working group of CHIPS Alliance covers the wide array of open source tooling for ASIC and FPGA design, mostly focusing around digital design (as there is a separate Analog WG that focuses around A/MS). 
+The Tools working group (WG) of CHIPS Alliance covers a wide array of open source tooling for ASIC and FPGA design, mostly focusing around digital design (as there is a separate Analog WG that focuses on AMS design flows). 
 
 ## Mission
 
