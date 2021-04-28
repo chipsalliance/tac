@@ -1,6 +1,6 @@
 # Analog Working Group
 
-The Analog working group was formed by the CHIPS Alliance TSC to explore collaborations in Analog design and verification.
+The Analog working group was formed by the CHIPS Alliance TSC to explore collaborations in open source Analog/Mixed-Signal design and verification.
 
 ## Mission
 
