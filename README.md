@@ -59,7 +59,7 @@ To join a TSC meeting: [https://zoom.us/j/96738269957](https://zoom.us/j/9673826
 
 ## TSC Members
 
-Per the Technical Charter, the TSC will initially be comprised of the chairs of the current workgroups, with the expectation that each will have at least one Graduated project within 6 months of the initial meeting.  Each workgroup will [determine their own representative to the TSC](https://github.com/chipsalliance/tsc/blob/master/drafts/CONTRIBUTING.md#workgroup-chairs).
+Per the Technical Charter, once passing the initial bootstrap phase, the TSC will be comprised of one representative from each graduated project.
 
 The current members of the CHIPS Alliance TSC are:
 
