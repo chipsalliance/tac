@@ -159,6 +159,8 @@ Subject: Please vote: [summary of vote]
 Voting members, please vote by replying "Approve", "Reject", or "Abstain".
 ```
 
+When a vote is related to a PR or issue, apply the labels [vote-required](https://github.com/chipsalliance/tsc/labels/vote-required), [vote-in-progress](https://github.com/chipsalliance/tsc/labels/vote-in-progress), [vote-passed](https://github.com/chipsalliance/tsc/labels/vote-passed), or [vote-rejected](https://github.com/chipsalliance/tsc/labels/vote-rejected) as appropriate.
+
 ### Merging PRs into the TSC repository
 
 Pull requests that do not change the charter or governance of the TSC can be merged into this repository provided the following conditions have been met:
