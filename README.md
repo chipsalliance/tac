@@ -18,6 +18,9 @@ In addition, as provided under the Technical Charter, CHIPS Alliance has adopted
 #### Working Groups
 
 * [Analog](https://github.com/chipsalliance/tsc/blob/HEAD/working_groups/analog/README.md)
+* [Tools](https://github.com/chipsalliance/tsc/blob/HEAD/working_groups/tools/README.md)
+
+(other WGs: Chisel, Rocket, Interconnects, Cores to be added via separate PRs)
 
 ## Getting Oriented
 
