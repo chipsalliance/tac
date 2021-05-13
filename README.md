@@ -57,9 +57,9 @@ CHIPS Alliance uses Zoom for meetings. Because we work in a highly distributed e
 
 To join a TSC meeting: [https://zoom.us/j/96738269957](https://zoom.us/j/96738269957) (pw: chipstsc)
 
-## TSC Members
+## TSC Voting Members
 
-Per the Technical Charter, the TSC will initially be comprised of the chairs of the current workgroups, with the expectation that each will have at least one Graduated project within 6 months of the initial meeting.  Each workgroup will [determine their own representative to the TSC](https://github.com/chipsalliance/tsc/blob/master/drafts/CONTRIBUTING.md#workgroup-chairs).
+Per the Technical Charter, once passing the initial bootstrap phase, the TSC will be comprised of one representative from each graduated project.
 
 The current members of the CHIPS Alliance TSC are:
 
@@ -139,6 +139,27 @@ The following policies and procedures have been adopted by the TSC.
 ### Reporting security vulnerabilities
 
 All CHIPS Alliance projects **must** have a process for receiving security vulnerability reports. If a project does not have its own process, the default policy is to send a detailed disclosure to [security@lists.chipsalliance.org](mailto:security@lists.chipsalliance.org). This is a confidential mailing list, and the TSC chair and a small group of trusted individuals will review and act upon the report as appropriate.
+
+### Voting procedures
+
+The TSC will use voting to make decisions when required by the charter, or when consensus cannot be reached.
+
+Votes may be initiated by any [TSC voting member](#tsc-voting-members) or CHIPS Alliance staff. Except when required otherwise by the charter, votes are decided by a simple majority of all eligible voting members. Unless withdrawn, votes remain open until they meet their acceptance or rejection threshold.
+
+Email votes are strongly preferred because they provide a clear history, although alternate voting systems may be used if they better serve the need of the situation (e.g., OpaVote, CIVS, etc.). Voting outcomes should be recorded in the minutes of the next TSC meeting. It is sufficient to publish the outcome; it is not necesssary to publish how each member voted unless there is unanimous agreement among voting members.
+
+Template for initiating an email vote:
+
+```
+To: technical-internal@lists.chipsalliance.org
+Subject: Please vote: [summary of vote]
+
+[2-4 sentences describing the topic of the vote, concluding with the actual vote]
+
+Voting members, please vote by replying "Approve", "Reject", or "Abstain".
+```
+
+When a vote is related to a PR or issue, apply the labels [vote-required](https://github.com/chipsalliance/tsc/labels/vote-required), [vote-in-progress](https://github.com/chipsalliance/tsc/labels/vote-in-progress), [vote-passed](https://github.com/chipsalliance/tsc/labels/vote-passed), or [vote-rejected](https://github.com/chipsalliance/tsc/labels/vote-rejected) as appropriate.
 
 ### Merging PRs into the TSC repository
 
