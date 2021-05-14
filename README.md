@@ -169,7 +169,7 @@ When a vote is related to a PR or issue, apply the labels [vote-required](https:
 Pull requests that do not change the charter or governance of the TSC can be merged into this repository provided the following conditions have been met:
 
 * There are no outstanding objections
-* There are two approvals by TSC members
+* There are two approvals by TSC members, or a vote has been passed in favor of the PR, as signified by the [vote-passed](https://github.com/chipsalliance/tsc/labels/vote-passed) label (see [Voting procedures](#voting-procedures) above)
 * The PR has been open for at least 72 hours
 
 Pull requests that change governance of the TSC (excluding the charter) must be open for at least 14 days, unless consensus is reached in a meeting with quorum of voting members.
