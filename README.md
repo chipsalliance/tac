@@ -172,7 +172,7 @@ Pull requests that do not change the charter or governance of the TSC can be mer
 * There are two approvals by TSC members
 * The PR has been open for at least 72 hours
 
-Pull requests that change governance of the TSC (excluding the charter) must be open for at least 14 days, unless consensus is reached in a meeting with quorum of voting members.
+Pull requests that change governance of the TSC (excluding the charter) must be open for at least 14 days, unless consensus is reached in a meeting with quorum of voting members, or an email vote has been passed in favor of the PR, as signified by the [vote-passed](https://github.com/chipsalliance/tsc/labels/vote-passed) label (see [Voting procedures](#voting-procedures) above).
 
 Pull requests that change the charter of the TSC must meet any requirements in the [charter](https://technical-charter.chipsalliance.org).
 
