@@ -1,6 +1,6 @@
 # Project application: (your project name here)
 
-To apply to become a CHIPS Alliance project, copy this template and open a PR against the TSC repo and add the `tsc-meeting` label. Projects applying for Sandbox status should add the `sandbox-application` label. Projects applying for Graduated status should add the `graduated-application` label.
+To apply to become a CHIPS Alliance project, copy this template to the relevant subfolder of [this directory](https://github.com/chipsalliance/tsc/tree/main/projects) and open a PR against the TSC repo and add the `tsc-meeting` label. Projects applying for Sandbox status should add the `sandbox-application` label. Projects applying for Graduated status should add the `graduated-application` label.
 
 For simplicity, the CHIPS Alliance TSC uses a progressive application for Sandbox and Graduated status. The Graduated application includes all of the Sandbox questions. Project candidate should complete as much of the application as possible, as this will help determine which level is most appropriate.
 
