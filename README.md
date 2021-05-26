@@ -183,10 +183,7 @@ If consensus cannot be reached, a pull request may still be landed after a vote 
 
 Special exception is made for pull requests seeking to make any of the following changes to this repository:
 
-- Errata fixes.
-- Editorial changes.
 - Meeting minutes.
-- Updates to team lists.
 - Doc fixes.
 
 Charter changes cannot be fast-tracked.
@@ -196,6 +193,16 @@ To propose fast-tracking a pull request, apply the ***fast-track*** label. Then 
 The pull request may be fast-tracked if two TSC members approve the fast-tracking request. To land, the pull request itself still needs two TSC member approvals.
 
 TSC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
+
+### Trivial or documentation PRs
+
+Trivial PRs that update factual situations can be merged immediately. When opening the PR, please note that the change is trivial and that it will be merged directly. Examples include:
+
+- Errata fixes.
+- Editorial changes.
+- Updates to team lists.
+
+If a TSC member does not believe the change was trivial, it can be reverted and proposed through the normal PR process.
 
 ### IP Policy
 
