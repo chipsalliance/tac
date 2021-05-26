@@ -194,7 +194,7 @@ The pull request may be fast-tracked if two TSC members approve the fast-trackin
 
 TSC members may request fast-tracking of pull requests they did not author. In that case only, the request itself is also one fast-track approval. Upvote the comment anyway to avoid any doubt.
 
-### Trivial or documentation PRs
+### Trivial PRs
 
 Trivial PRs that update factual situations can be merged immediately. When opening the PR, please note that the change is trivial and that it will be merged directly. Examples include:
 
