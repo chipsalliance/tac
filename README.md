@@ -8,18 +8,38 @@ The CHIPS Alliance TSC is governed by a [Technical Charter](https://technical-ch
 
 In addition, as provided under the Technical Charter, CHIPS Alliance has adopted a [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) that applies to all CHIPS Alliance activities and spaces.
 
-## CHIPS Alliance Projects
+## TSC Voting Members,Projects and Working Groups
 
-#### Sandbox projects
+Per the Technical Charter, on top of any members appointed in the initial bootstrap phase, the TSC will be comprised of one representative from each graduated Project. 
+
+The current members of the CHIPS Alliance TSC are:
+
+| Name                      | GitHub                                              | Affiliation | Project | Term begins  | Term ends    |
+| ------------------------- | --------------------------------------------------- | ------------|---------|--------------|--------------|
+| Henry Cook (chair)        | [hcook](https://github.com/hcook)                   | SiFive      | (chair) | (appointed)  | (appointed)  |
+| Michael Gielda            | [mgielda](https://github.com/mgielda)               | Antmicro    | (mktg)  | (appointed)  | (appointed)  |
+| Henner Zeller             | [hzeller](https://github.com/hzeller)               | Google      | Verible | (appointed)  | (appointed)  |
+
+The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
+
+### Sandbox projects
 
 * See [Sandbox projects](./projects/sandbox) for a list of projects currently in Sandbox.
 
-#### Working Groups
+### Working Groups
+
+Projects are organized into Working Groups for the purpose of e.g. organizing meetings which aggregate related projects and topical areas.
+
+Currently, the following working groups have been established:
 
 * [Analog](https://github.com/chipsalliance/tsc/blob/HEAD/working_groups/analog/README.md)
 * [Tools](https://github.com/chipsalliance/tsc/blob/HEAD/working_groups/tools/README.md)
+* Chisel
+* Rocket
+* Interconnects
+* Cores
 
-(other WGs: Chisel, Rocket, Interconnects, Cores to be added via separate PRs)
+(the descriptions for Chisel, Rocket, Interconnects, Cores need to be added via separate PRs)
 
 ## Getting Oriented
 
@@ -58,22 +78,6 @@ The CHIPS Alliance maintains a [public calendar](https://calendar.chipsalliance.
 CHIPS Alliance uses Zoom for meetings. Because we work in a highly distributed environment and will rarely meet in person, participants are encouraged to use video as appropriate.
 
 To join a TSC meeting: [https://zoom.us/j/96738269957](https://zoom.us/j/96738269957) (pw: chipstsc)
-
-## TSC Voting Members
-
-Per the Technical Charter, once passing the initial bootstrap phase, the TSC will be comprised of one representative from each graduated project.
-
-The current members of the CHIPS Alliance TSC are:
-
-| Name                      | GitHub                                              | Affiliation | Term begins  | Term ends    |
-| ------------------------- | --------------------------------------------------- | ------------|--------------|--------------|
-| Henry Cook (chair)        |[hcook](https://github.com/hcook)                    | SiFive      | (appointed)  | (appointed)  |
-| Michael Gielda            |[mgielda](https://github.com/mgielda)                | Antmicro    | (appointed)  | (appointed)  |
-| Henner Zeller             |[hzeller](https://github.com/hzeller)                | Google      | (appointed)  | (appointed)  |
-
-### Becoming a TSC Member
-
-The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
 
 ## Projects and Workgroups
 
