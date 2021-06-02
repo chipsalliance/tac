@@ -8,25 +8,28 @@ The CHIPS Alliance TSC is governed by a [Technical Charter](https://technical-ch
 
 In addition, as provided under the Technical Charter, CHIPS Alliance has adopted a [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) that applies to all CHIPS Alliance activities and spaces.
 
-## TSC Voting Members,Projects and Working Groups
+## TSC voting members and Graduated projects
 
-Per the Technical Charter, on top of any members appointed in the initial bootstrap phase, the TSC will be comprised of one representative from each graduated Project. 
+Per the Technical Charter, on top of any members appointed in the initial bootstrap phase, the TSC will be comprised of one representative from each Graduated project.
 
 The current members of the CHIPS Alliance TSC are:
 
-| Name                      | GitHub                                              | Affiliation | Project | Term begins  | Term ends    |
-| ------------------------- | --------------------------------------------------- | ------------|---------|--------------|--------------|
-| Henry Cook (chair)        | [hcook](https://github.com/hcook)                   | SiFive      | (chair) | (appointed)  | (appointed)  |
-| Michael Gielda            | [mgielda](https://github.com/mgielda)               | Antmicro    | (mktg)  | (appointed)  | (appointed)  |
-| Henner Zeller             | [hzeller](https://github.com/hzeller)               | Google      | Verible | (appointed)  | (appointed)  |
+| Name                      | GitHub                                              | Affiliation  | Project      | Term begins  | Term ends    |
+| ------------------------- | --------------------------------------------------- | -------------|--------------|--------------|--------------|
+| Henry Cook (chair)        | [hcook](https://github.com/hcook)                   | SiFive       | (chair)      | (appointed)  | (appointed)  |
+| Michael Gielda            | [mgielda](https://github.com/mgielda)               | Antmicro     | (mktg)       | (appointed)  | (appointed)  |
+| Henner Zeller             | [hzeller](https://github.com/hzeller)               | Google       | Verible      | (appointed)  | (appointed)  |
+| Alain Dargelas            | [alainmarcel](https://github.com/alainmarcel)       | unaffiliated | Surelog/UHDM | (appointed)  | (appointed)  |
 
 The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
 
-### Sandbox projects
+## Sandbox projects list
 
-* See [Sandbox projects](./projects/sandbox) for a list of projects currently in Sandbox.
+In addition to Graduated projects which delegate one member each to the TSC (see the table above), there are also Sandbox projects which are on the path to joining although are not fully/formally incorporated into CHIPS Alliance yet.
 
-### Working Groups
+See [Sandbox projects](./projects/sandbox) for a list of projects currently in Sandbox.
+
+## Working Groups list
 
 Projects are organized into Working Groups for the purpose of e.g. organizing meetings which aggregate related projects and topical areas.
 
@@ -39,9 +42,9 @@ Currently, the following working groups have been established:
 * Interconnects
 * Cores
 
-(the descriptions for Chisel, Rocket, Interconnects, Cores need to be added via separate PRs)
+(the descriptions for Chisel, Rocket, Interconnects, Cores still need to be added via separate PRs)
 
-## Getting Oriented
+## Getting oriented
 
 This repo documents the day-to-day policies and procedures of the CHIPS Alliance TSC. It provides a framework for self-governance, and addresses topics too granular for the [Technical Charter](https://technical-charter.chipsalliance.org).
 
@@ -56,14 +59,14 @@ Here are some other links to help you find your way:
 
 * [An introduction to our collaboration tools](#collaboration-tools)
 * [Our policies and procedures](#policies-and-procedures)
-* [The current voting members of the TSC](#tsc-members) (please note anyone can participate in our [meetings](#calendars-and-meetings) as a non-voting attendee)
+* [The current voting members of the TSC](#tsc-voting-members-and-graduated-projects) (please note anyone can participate in our [meetings](#calendars-and-meetings) as a non-voting attendee)
 * [Projects and Workgroups of the CHIPS Alliance](#projects-and-workgroups)
 
 Finally, if you need help, please [reach out and ask](#getting-help).
 
-## Collaboration Tools
+## Collaboration tools
 
-### Mailing List
+### Mailing list
 
 The CHIPS Alliance TSC can be reached at [technical-discuss](https://lists.chipsalliance.org/g/technical-discuss). This mailing list is open for anyone to join, and all are welcome to participate in general technical discussions about the project.
 
@@ -71,7 +74,7 @@ The CHIPS Alliance TSC can be reached at [technical-discuss](https://lists.chips
 
 The CHIPS Alliance maintains a [Slack Workspace](https://slack.chipsalliance.org) for communication and collaboration, which is open for anyone to join. Once you join [Slack](https://slack.chipsalliance.org), you can participate in any public channels.
 
-### Calendars and Meetings
+### Calendars and meetings
 
 The CHIPS Alliance maintains a [public calendar](https://calendar.chipsalliance.org) for TSC meetings. These meetings are open for anyone to join.
 
@@ -83,7 +86,7 @@ To join a TSC meeting: [https://zoom.us/j/96738269957](https://zoom.us/j/9673826
 
 The TSC is granted oversight over all CHIPS Alliance technical projects and workgroups. In CHIPS Alliance, similar technical projects are organized into workgroups. Each project is represented within the workgroup's internal governance structure. Likewise, each workgroup selects a member to represent it as a voting member of the TSC, using an open and transparent selection process.
 
-### Mission Statements
+### Mission statements
 
 Each project must have a mission statement ([template](./projects/MISSION_STATEMENT_TEMPLATE.md)) which describes its purpose and governance. Changes to mission statements must be reviewed and approved by the TSC.
 
@@ -151,7 +154,7 @@ All CHIPS Alliance projects **must** have a process for receiving security vulne
 
 The TSC will use voting to make decisions when required by the charter, or when consensus cannot be reached.
 
-Votes may be initiated by any [TSC voting member](#tsc-voting-members) or CHIPS Alliance staff. Except when required otherwise by the charter, votes are decided by a simple majority of all eligible voting members. Unless withdrawn, votes remain open until they meet their acceptance or rejection threshold.
+Votes may be initiated by any [TSC voting member](#tsc-voting-members-and-graduated-projects) or CHIPS Alliance staff. Except when required otherwise by the charter, votes are decided by a simple majority of all eligible voting members. Unless withdrawn, votes remain open until they meet their acceptance or rejection threshold.
 
 Email votes are strongly preferred because they provide a clear history, although alternate voting systems may be used if they better serve the need of the situation (e.g., OpaVote, CIVS, etc.). Voting outcomes should be recorded in the minutes of the next TSC meeting. It is sufficient to publish the outcome; it is not necesssary to publish how each member voted unless there is unanimous agreement among voting members.
 
@@ -224,6 +227,7 @@ Projects are encouraged (but not required) to adopt the practice of including [S
 CHIPS Alliance projects should use one of the following notices on their websites, as appropriate:
 
 ##### For HTML sites
+
 > ```
 > Copyright CHIPS Alliance Project a Series of LF Projects, LLC.<br>For web site terms of use, trademark policy and general project policies please see <a href="https://lfprojects.org">https://lfprojects.org</a>.
 > ```
