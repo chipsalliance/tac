@@ -2,7 +2,6 @@
 
 CHIPS Alliance uses a [project lifecycle process](/README.md#lifecycle) to categorize current and prospective projects.
 
-Current Sandbox projects:
+For a list of projects currently in Sandbox, see the files in the current directory (one per project), naturally excluding this README.
 
-* [Chisel (incl. Firrtl and treadl)](https://github.com/chipsalliance/tsc/blob/HEAD/projects/sandbox/chisel_and_related_projects.md)
-* [Rocket Chip](https://github.com/chipsalliance/tsc/blob/HEAD/projects/sandbox/rocket_chip.md)
+In the future, this repository will be used as a base to generate a more structured summary of all CHIPS projects.

@@ -2,6 +2,6 @@
 
 CHIPS Alliance uses a [project lifecycle process](/README.md#lifecycle) to categorize current and prospective projects.
 
-Current Archived projects:
+For a list of Archived projects, see the files in the current directory (one per project), naturally excluding this README.
 
-* None
+In the future, this repository will be used as a base to generate a more structured summary of all CHIPS projects.

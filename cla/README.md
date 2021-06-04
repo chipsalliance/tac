@@ -1,6 +1,6 @@
 # CHIPS Alliance CLA
 
-All contributors must sign the CHIPS Alliance CLA ([individual](./CHIPS_Alliance-ICLA-v7-preview.pdf) / [corporate](./CHIPS_Alliance-CCLA-v7-preview.pdf)) prior to any contributions being merged. In addition, if you are participating in a specification project, you must sign the CLA and also the OWFa agreement ([individual](./CHIPS_Alliance-ICLA_with_OWFa_1.0-v7-preview.pdf) / [corporate](./CHIPS_Alliance-CCLA_with_OWFa_1.0-v7-preview.pdf)). 
+All contributors must sign the CHIPS Alliance CLA ([individual](./CHIPS_Alliance-ICLA-v7-preview.pdf) / [corporate](./CHIPS_Alliance-CCLA-v7-preview.pdf)) prior to any contributions being merged. In addition, if you are participating in a specification project, you must sign the CLA and also the OWFa agreement ([individual](./CHIPS_Alliance-ICLA_with_OWFa_0.9-v8-preview.pdf) / [corporate](./CHIPS_Alliance-CCLA_with_OWFa_0.9-v8-preview.pdf)). 
 
 There is no cost, and once you've signed both documents you will be able to contribute to all CHIPS Alliance projects.
 
