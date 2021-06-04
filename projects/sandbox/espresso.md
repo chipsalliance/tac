@@ -7,7 +7,7 @@
 * Project name: Espresso Logic Minimizer
 * Project repo(s): https://github.com/chipsalliance/espresso/
 * Brief summary of the project: Logic Minimizer Tool, rehost&remaintain under Chips Alliance.
-* Project's open source license: [Init commit](https://github.com/chipsalliance/espresso/commit/52a94dde27426a6d17af90904264c8491b7c6534) is licensed via "Oct Tools Distribution 3.0", which needs to be relicensed to "BSD-2-Clause" since it is most similar. Commits after init commit(which are known as modifications) will be licensed via "Apache 2.0".
+* Project's open source license: [Init commit](https://github.com/chipsalliance/espresso/commit/52a94dde27426a6d17af90904264c8491b7c6534) is licensed via "Oct Tools Distribution 3.0", which needs to be relicensed to "BSD-2-Clause" since it is the most similar modern open-source license to "Oct Tools Distribution 3.0". Commits after init commit(which are known as modifications) will be licensed via "Apache 2.0".
 * Link to issue tracker: https://github.com/chipsalliance/espresso/issues
 * Link to website: N/A
 * Links to social media accounts: N/A
