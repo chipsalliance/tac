@@ -1,21 +1,13 @@
 # Project application: OpenFASOC
 
-To apply to become a CHIPS Alliance project, copy this template and open a PR against the TSC repo and add the `tsc-meeting` label. Projects applying for Sandbox status should add the `sandbox-application` label. Projects applying for Graduated status should add the `graduated-application` label.
-
-For simplicity, the CHIPS Alliance TSC uses a progressive application for Sandbox and Graduated status. The Graduated application includes all of the Sandbox questions. Project candidate should complete as much of the application as possible, as this will help determine which level is most appropriate.
-
-When applying to move from Sandbox » Graduated, please modify the existing application and update relevant fields (such as number of committers) so that the file's history is preserved.
-
-If a specific field is not applicable to your project (e.g. your project does not have dedicated social media accounts), please use N/A to signify this.
-
 ## Application
 
 ### Sandbox application
 
 * Project name: OpenFASOC
 * Project repo(s): 
-        * Fully open source: https://github.com/idea-fasoc/OpenFASOC
-        * Main repo: https://github.com/idea-fasoc
+  * Fully open source OpenFASOC: https://github.com/idea-fasoc/OpenFASOC
+  * Main FASOCrepo: https://github.com/idea-fasoc
 * Brief summary of the project: Fully Open Source Automated Analog Block Generation built on top of OpenROAD, Magic, Netgen, Klayout and Ngspice  
 * Project's open source license: Apache-2.0
 * Link to issue tracker: https://github.com/idea-fasoc/OpenFASOC/issues
@@ -33,8 +25,9 @@ If a specific field is not applicable to your project (e.g. your project does no
 
 ### Graduation application
 
-* Total number of active committers: https://github.com/idea-fasoc/fasoc/graphs/contributors
-			             https://github.com/idea-fasoc/OpenFASOC/graphs/contributors
+* Total number of active committers:
+  * https://github.com/idea-fasoc/fasoc/graphs/contributors
+  * https://github.com/idea-fasoc/OpenFASOC/graphs/contributors
 * Brief description of release methodology and mechanics: No regular release policy has been adopted as of yet; a policy is going to be developed in collaboration within CHIPS.
 * Link to draft mission statement: https://fasoc.engin.umich.edu/
 * Link to logo in .svg format: None 
