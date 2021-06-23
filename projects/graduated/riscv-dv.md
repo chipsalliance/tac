@@ -24,7 +24,7 @@
 ### Graduation application
 
 * Total number of active committers: https://github.com/google/riscv-dv/graphs/contributors
-* Brief description of release methodology and mechanics: Releases are automated and published on every commit.
+* Brief description of release methodology and mechanics: Last public release is a 0.8. No regular release policy has been adopted as of yet; a policy is going to be developed in collaboration within CHIPS.
 * Link to draft mission statement: https://github.com/google/riscv-dv#overview.
 * Link to logo in .svg format: None.
 * Confirmation that the project adopts the [CHIPS Alliance Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) upon acceptance: Confirmed
