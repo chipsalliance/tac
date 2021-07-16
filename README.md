@@ -21,6 +21,7 @@ The current members of the CHIPS Alliance TSC are:
 | Henner Zeller             | [hzeller](https://github.com/hzeller)               | Google                 | Verible      | (appointed)  | (appointed)  |
 | Alain Dargelas            | [alainmarcel](https://github.com/alainmarcel)       | unaffiliated           | Surelog/UHDM | (appointed)  | (appointed)  |
 | Mehdi Saligane            | [msaligane](https://github.com/msaligane)           | University of Michigan | OpenFASOC    | (appointed)  | (appointed)  |
+| Tom Gorochowik            | [tgorochowik](https://github.com/tgorochowik)       | Antmicro               | SV tests     | (appointed)  | (appointed)  |
 
 The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
 
