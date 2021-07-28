@@ -14,10 +14,10 @@
 * Who uses this project, and at what scale: Google, OpenTitan, Western Digital, Andes, and others.
 * Why does the project want to join CHIPS Alliance: To enable the CHIPS Alliance community to design and validate RISC-V CPU Cores.
 * Primary contact from the project during the Sandbox application process:
- * Name: Matt Cockrell
- * Email: mcockrell@google.com
- * GitHub handle: @mcockrell-google
- * Role within the project: `riscv-dv` Workgroup Lead
+  * Name: Matt Cockrell
+  * Email: mcockrell@google.com
+  * GitHub handle: @mcockrell-google
+  * Role within the project: `riscv-dv` Workgroup Lead
 
 *Projects applying for Sandbox status may stop here.*
 
@@ -34,7 +34,7 @@
 * Link to documented process for reporting security vulnerabilities: The project will use [CHIPS Alliance's default security policy](https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities)
 * **For specifications** Confirmation there is at least one public reference implementation: N/A
 * Primary contact from the project during the Graduation process:
- * Name: Matt Cockrell
- * Email: mcockrell@google.com
- * GitHub handle: @mcockrell-google
- * Role within the project: `riscv-dv` Workgroup Lead
+  * Name: Matt Cockrell
+  * Email: mcockrell@google.com
+  * GitHub handle: @mcockrell-google
+  * Role within the project: `riscv-dv` Workgroup Lead
