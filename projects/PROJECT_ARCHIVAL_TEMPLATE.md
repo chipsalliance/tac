@@ -13,7 +13,7 @@ To propose that a project be moved to the Archived state, copy this template int
 * Confirmation that a Linux Foundation user has been added as an Owner:
 * Proposed date to move repos to `Archived` state:
 * Primary contact during the Archival process:
- * Name:
- * Email:
- * GitHub handle:
- * Role within the project:
+  * Name:
+  * Email:
+  * GitHub handle:
+  * Role within the project:

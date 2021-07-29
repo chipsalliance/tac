@@ -34,7 +34,7 @@ _We intend to apply for Graduation but need to hold a governance meeting._
 * Link to documented process for reporting security vulnerabilities:
 * **For specifications** Confirmation there is at least one public reference implementation:
 * Primary contact from the project during the Graduation process:
- * Name:
- * Email:
- * GitHub handle:
- * Role within the project:
+  * Name:
+  * Email:
+  * GitHub handle:
+  * Role within the project:

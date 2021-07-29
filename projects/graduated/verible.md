@@ -14,10 +14,10 @@
 * Who uses this project, and at what scale: Google, OpenTitan, others.
 * Why does the project want to join CHIPS Alliance: To establish a wider community and create awareness about the availability of a high-quality open source linting and formatting tool for SystemVerilog.
 * Primary contact from the project during the Sandbox application process:
- * Name: Henner Zeller
- * Email: hzeller@google.com
- * GitHub handle: @hzeller
- * Role within the project: Lead Developer
+  * Name: Henner Zeller
+  * Email: hzeller@google.com
+  * GitHub handle: @hzeller
+  * Role within the project: Lead Developer
 
 *Projects applying for Sandbox status may stop here.*
 
@@ -34,7 +34,7 @@
 * Link to documented process for reporting security vulnerabilities: The project will use [CHIPS Alliance's default security policy](https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities)
 * **For specifications** Confirmation there is at least one public reference implementation: N/A
 * Primary contact from the project during the Graduation process:
- * Name: Henner Zeller
- * Email: hzeller@google.com
- * GitHub handle: @hzeller
- * Role within the project: Lead Developer
+  * Name: Henner Zeller
+  * Email: hzeller@google.com
+  * GitHub handle: @hzeller
+  * Role within the project: Lead Developer
