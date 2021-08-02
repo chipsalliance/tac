@@ -14,10 +14,10 @@
 * Who uses this project, and at what scale: CHIPS Alliance AIB Working Group
 * Why does the project want to join CHIPS Alliance:
 * Primary contact from the project during the Sandbox application process:
- * Name: David Kehlet
- * Email: dkehlet@gmail.com
- * GitHub handle: dkehlet
- * Role within the project: Administrator
+  * Name: David Kehlet
+  * Email: dkehlet@gmail.com
+  * GitHub handle: dkehlet
+  * Role within the project: Administrator
 
 *Projects applying for Sandbox status may stop here.*
 
@@ -34,7 +34,7 @@
 * Link to documented process for reporting security vulnerabilities:
 * **For specifications** Confirmation there is at least one public reference implementation:
 * Primary contact from the project during the Graduation process:
- * Name:
- * Email:
- * GitHub handle:
- * Role within the project:
+  * Name:
+  * Email:
+  * GitHub handle:
+  * Role within the project:

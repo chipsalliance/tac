@@ -14,7 +14,7 @@
 * Who uses this project, and at what scale: WDC, for research into future computer architecture
 * Why does the project want to join CHIPS Alliance: To standardize coherent interconnects for the RISC-V ecosystem
 * Primary contact from the project during the Sandbox application process:
- * Name: Dejan Vucinic
- * Email: dejan.vucinic@wdc.com
- * GitHub handle: dejan.vucinic@wdc.com
- * Role within the project: Originator and Evangelist
+  * Name: Dejan Vucinic
+  * Email: dejan.vucinic@wdc.com
+  * GitHub handle: dejan.vucinic@wdc.com
+  * Role within the project: Originator and Evangelist

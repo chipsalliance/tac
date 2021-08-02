@@ -14,10 +14,10 @@
 * Who uses this project, and at what scale: Google, Antmicro
 * Why does the project want to join CHIPS Alliance: The projects want to join CHIPS Alliance in order to build a community around UHDM and Surelog, to grow the userbase and attract additional contributions, improve SystemVerilog support in open source tools.
 * Primary contact from the project during the Sandbox application process:
- * Name: Alain Dargelas
- * Email: alain.dargelas@gmail.com
- * GitHub handle: @alaindargelas
- * Role within the project: Maintainer, core contributor
+  * Name: Alain Dargelas
+  * Email: alain.dargelas@gmail.com
+  * GitHub handle: @alaindargelas
+  * Role within the project: Maintainer, core contributor
 
 ### Graduation application
 
@@ -32,7 +32,7 @@
 * Link to documented process for reporting security vulnerabilities: The project will use [CHIPS Alliance's default security policy](https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities)
 * **For specifications** Confirmation there is at least one public reference implementation: N/A
 * Primary contact from the project during the Graduation process:
- * Name: Alain Dargelas
- * Email: alain.dargelas@gmail.com
- * GitHub handle: @alaindargelas
- * Role within the project: Lead Developer
+  * Name: Alain Dargelas
+  * Email: alain.dargelas@gmail.com
+  * GitHub handle: @alaindargelas
+  * Role within the project: Lead Developer

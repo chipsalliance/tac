@@ -22,10 +22,10 @@ If a specific field is not applicable to your project (e.g. your project does no
 * Who uses this project, and at what scale:
 * Why does the project want to join CHIPS Alliance:
 * Primary contact from the project during the Sandbox application process:
- * Name:
- * Email:
- * GitHub handle:
- * Role within the project:
+  * Name:
+  * Email:
+  * GitHub handle:
+  * Role within the project:
 
 *Projects applying for Sandbox status may stop here.*
 
@@ -42,7 +42,7 @@ If a specific field is not applicable to your project (e.g. your project does no
 * Link to documented process for reporting security vulnerabilities:
 * **For specifications** Confirmation there is at least one public reference implementation:
 * Primary contact from the project during the Graduation process:
- * Name:
- * Email:
- * GitHub handle:
- * Role within the project:
+  * Name:
+  * Email:
+  * GitHub handle:
+  * Role within the project:
