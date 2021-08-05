@@ -31,14 +31,14 @@ In addition to Graduated projects which delegate one member each to the TSC (see
 
 See [Sandbox projects](./projects/sandbox) for a list of projects currently in Sandbox.
 
-## Working Groups list
+## Workgroups list
 
-Projects are organized into Working Groups for the purpose of e.g. organizing meetings which aggregate related projects and topical areas.
+Projects are organized into Workgroups for the purpose of e.g. organizing meetings which aggregate related projects and topical areas.
 
-Currently, the following working groups have been established:
+Currently, the following workgroups have been established:
 
-* [Analog](https://github.com/chipsalliance/tsc/blob/HEAD/working_groups/analog/README.md)
-* [Tools](https://github.com/chipsalliance/tsc/blob/HEAD/working_groups/tools/README.md)
+* [Analog](https://github.com/chipsalliance/tsc/blob/HEAD/workgroups/analog/README.md)
+* [Tools](https://github.com/chipsalliance/tsc/blob/HEAD/workgroups/tools/README.md)
 * Chisel
 * Rocket
 * Interconnects
