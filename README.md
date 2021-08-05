@@ -37,8 +37,8 @@ Projects are organized into Workgroups for the purpose of e.g. organizing meetin
 
 Currently, the following workgroups have been established:
 
-* [Analog](https://github.com/chipsalliance/tsc/blob/HEAD/workgroups/analog/README.md)
-* [Tools](https://github.com/chipsalliance/tsc/blob/HEAD/workgroups/tools/README.md)
+* [Analog](./workgroups/analog/README.md)
+* [Tools](./workgroups/tools/README.md)
 * Chisel
 * Rocket
 * Interconnects
