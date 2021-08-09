@@ -1,12 +1,12 @@
-# Project application: `riscv-dv`
+# Project application: RISCV-DV
 
 ## Application
 
 ### Sandbox application
 
-* Project name: `riscv-dv`
+* Project name: RISCV-DV
 * Project repo(s): https://github.com/google/riscv-dv
-* Brief summary of the project: `riscv-dv` is an open source verification tool for RISC-V processors. `riscv-dv` is a SystemVerilog based random RISC-V instruction generator that checks the execution against an industry standard ISS for correction and compliance.
+* Brief summary of the project: RISCV-DV is an open source verification tool for RISC-V processors. RISCV-DV is a SystemVerilog based random RISC-V instruction generator that checks the execution against an industry standard ISS for correction and compliance.
 * Project's open source license: Apache 2.0
 * Link to issue tracker: https://github.com/google/riscv-dv/issues
 * Link to website: None.
@@ -17,7 +17,7 @@
   * Name: Matt Cockrell
   * Email: mcockrell@google.com
   * GitHub handle: @mcockrell-google
-  * Role within the project: `riscv-dv` Workgroup Lead
+  * Role within the project: RISCV-DV Subgroup Lead
 
 *Projects applying for Sandbox status may stop here.*
 
@@ -37,4 +37,4 @@
   * Name: Matt Cockrell
   * Email: mcockrell@google.com
   * GitHub handle: @mcockrell-google
-  * Role within the project: `riscv-dv` Workgroup Lead
+  * Role within the project: RISCV-DV Subgroup Lead
