@@ -14,14 +14,16 @@ Per the Technical Charter, on top of any members appointed in the initial bootst
 
 The current members of the CHIPS Alliance TSC are:
 
-| Name                      | GitHub                                              | Affiliation            | Project      | Term begins  | Term ends    |
-| ------------------------- | --------------------------------------------------- | -----------------------|--------------|--------------|--------------|
-| Henry Cook (chair)        | [hcook](https://github.com/hcook)                   | SiFive                 | (chair)      | (appointed)  | (appointed)  |
-| Michael Gielda            | [mgielda](https://github.com/mgielda)               | Antmicro               | (mktg)       | (appointed)  | (appointed)  |
-| Henner Zeller             | [hzeller](https://github.com/hzeller)               | Google                 | Verible      | (appointed)  | (appointed)  |
-| Alain Dargelas            | [alainmarcel](https://github.com/alainmarcel)       | unaffiliated           | Surelog/UHDM | (appointed)  | (appointed)  |
-| Mehdi Saligane            | [msaligane](https://github.com/msaligane)           | University of Michigan | OpenFASOC    | (appointed)  | (appointed)  |
-| Tom Gorochowik            | [tgorochowik](https://github.com/tgorochowik)       | Antmicro               | SV tests     | (appointed)  | (appointed)  |
+| Name                      | GitHub                                              | Affiliation            | Project          | Term begins  | Term ends    |
+| ------------------------- | --------------------------------------------------- | -----------------------|------------------|--------------|--------------|
+| Henry Cook (chair)        | [hcook](https://github.com/hcook)                   | SiFive                 | (chair)          | (appointed)  | (appointed)  |
+| Michael Gielda            | [mgielda](https://github.com/mgielda)               | Antmicro               | (mktg)           | (appointed)  | (appointed)  |
+| Henner Zeller             | [hzeller](https://github.com/hzeller)               | Google                 | Verible          | (appointed)  | (appointed)  |
+| Alain Dargelas            | [alainmarcel](https://github.com/alainmarcel)       | unaffiliated           | Surelog/UHDM     | (appointed)  | (appointed)  |
+| Mehdi Saligane            | [msaligane](https://github.com/msaligane)           | University of Michigan | OpenFASOC        | (appointed)  | (appointed)  |
+| Tom Gorochowik            | [tgorochowik](https://github.com/tgorochowik)       | Antmicro               | SV tests         | (appointed)  | (appointed)  |
+| Maciej Kurc               | [mkurc-ant](https://github.com/mkurc-ant)           | Antmicro               | FPGA Interchange | (appointed)  | (appointed)  |
+
 
 The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
 
