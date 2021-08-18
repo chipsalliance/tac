@@ -23,7 +23,7 @@ The current members of the CHIPS Alliance TSC are:
 | Mehdi Saligane            | [msaligane](https://github.com/msaligane)           | University of Michigan | OpenFASOC        | (appointed)  | (appointed)  |
 | Tom Gorochowik            | [tgorochowik](https://github.com/tgorochowik)       | Antmicro               | SV tests         | (appointed)  | (appointed)  |
 | Maciej Kurc               | [mkurc-ant](https://github.com/mkurc-ant)           | Antmicro               | FPGA Interchange | (appointed)  | (appointed)  |
-
+| David Kehlet              | [dkehlet](https://github.com/dkehlet)               | Intel                  | AIB              | (appointed)  | (appointed)  |
 
 The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
 
