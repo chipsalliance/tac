@@ -1,10 +1,10 @@
-# SystemVerilog Workgroup
+# SystemVerilog Subgroup
 
-The SystemVerilog workgroup was formed by the CHIPS Alliance TSC to explore collaborations in open source tools for SystemVerilog development/verification.
+The SystemVerilog Subgroup was formed by the CHIPS Alliance TSC as part of the Tools WG to explore collaborations in open source tools for SystemVerilog development/verification.
 
 ## Mission
 
-The mission of the SystemVerilog WG will be to:
+The mission of the SystemVerilog SG will be to:
 
 * help in the development of CHIPS Alliance's SystemVerilog projects such as Verible, Surelog, UHDM etc.
 * identify open source IP and tools in/for SystemVerilog and help them flourish
@@ -20,4 +20,3 @@ Anyone is allowed to join and participate on [the `sv-wg` mailing list](https://
 ### Calendar
 
 Meetings and events will be posted on the main [CHIPS Alliance calendar](https://calendar.chipsalliance.org).
-
