@@ -11,7 +11,7 @@
 * Link to issue tracker: https://github.com/SymbiFlow/fpga-tool-perf/issues, https://github.com/SymbiFlow/actions/issues
 * Link to website: N/A
 * Links to social media accounts: N/A
-* Who uses this project, and at what scale: The `fpga-tool-perf` repository is used to automatically benchmark performance of various FPGA toolchains and present the results in a human readable form. The `actions` repository provides a number of useful GitHub actions used for testing and publishing FPGA development tools.
+* Who uses this project, and at what scale: The `fpga-tool-perf` repository is used to automatically benchmark performance of various FPGA toolchains and present the results in a human readable form. The `actions` repository provides a number of useful GitHub actions used for testing and publishing FPGA development tools. The project is used by Google, Antmicro, and the wider open source FPGA community like the VTR project.
 * Why does the project want to join CHIPS Alliance: The repositories are currently used within the SymbiFlow organization, but are not limited only to tools developed within SymbiFlow
 * Primary contact from the project during the Sandbox application process:
   * Name: Tomasz Gorochowik
