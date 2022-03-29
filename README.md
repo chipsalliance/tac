@@ -25,6 +25,8 @@ The current members of the CHIPS Alliance TSC are:
 | Maciej Kurc        | [mkurc-ant](https://github.com/mkurc-ant)               | Antmicro               | FPGA Interchange          | (appointed) | (appointed) |
 | David Kehlet       | [dkehlet](https://github.com/dkehlet)                   | Intel                  | AIB                       | (appointed) | (appointed) |
 | Matt Cockrell      | [mcockrell-google](https://github.com/mcockrell-google) | Google                 | RISC-V DV                 | (appointed) | (appointed) |
+| Tom Michalak       | [tmichalak](https://github.com/tmichalak)                | Antmicro               | F4PGA                     | (appointed) | (appointed) |
+
 
 The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
 
