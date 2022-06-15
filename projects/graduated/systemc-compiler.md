@@ -17,7 +17,7 @@
 * Why does the project want to join CHIPS Alliance: Joining CHIPS Alliance will allow a broader adoption of ICSC and a wider cooperation with CHIPS Alliance members.
 * Primary contact from the project during the Sandbox application process:
   * Name: Mikhail Moiseev
-  * Email: mikhail.moiseev@gmail.com
+  * Email: mikhail.moiseev@intel.com
   * GitHub handle: @mikhailmoiseev
   * Role within the project: Maintainer, committer
 
@@ -35,6 +35,6 @@
 * **For specifications** Confirmation there is at least one public reference implementation: N/A
 * Primary contact from the project during the Graduation application process:
   * Name: Mikhail Moiseev
-  * Email: mikhail.moiseev@gmail.com
+  * Email: mikhail.moiseev@intel.com
   * GitHub handle: @mikhailmoiseev
   * Role within the project: Maintainer, committer
