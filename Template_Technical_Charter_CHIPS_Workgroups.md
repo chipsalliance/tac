@@ -65,7 +65,7 @@ A TAC Chair may resign at any time. A TAC Chair may be removed from the position
 
 A former TAC Chair may continue to be a Participant in the Workgroup if there is no other reason against it, e.g., if no adverse Code of Conduct determination has been made.
 
-##Volunteer Developers
+## Volunteer Developers
 
 The Workgroup welcomes contributions from members of the open source community. All open source contributors who have signed the CHIPS Alliance Contributor License Agreement, or who are covered by a CHIPS Alliance Contributor License Agreement signed by their employer, are welcome as Workgroup Volunteer Developers. 
 
