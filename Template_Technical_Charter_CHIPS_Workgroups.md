@@ -14,7 +14,9 @@ All CHIPS Alliance governing documents and policies, including the CHIPS Allianc
 
 1. The Mission of the Workgroup is to develop and host open source projects with the goals indicated in the “README” file within the Workgroup’s code repository.
 2. The scope of the Workgroup includes [add additional details about intended focus of Workgroup, 2-3 sentences.]
+
 ## Participants
+
 The Workgroup technical governance consists of two types of participants: Technical Advisory Committee members and Volunteer Developers (together, the “Participants”).
 
 ## Technical Advisory Committee
