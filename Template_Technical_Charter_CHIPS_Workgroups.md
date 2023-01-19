@@ -1,19 +1,28 @@
-# <center>Workgroup Charter for `[Workgroup Name]`, a CHIPS Alliance Workgroup</center>
+# Workgroup Charter for `[Workgroup Name]`, a CHIPS Alliance Workgroup
+
 Adopted `[Month, Day, Year]`
 This Workgroup Charter (the “Charter”) sets forth the responsibilities and procedures for technical contribution to, and oversight of the `[WORKGROUP NAME]` Workgroup (the “Workgroup”).
+
 ## Relationship to CHIPS Alliance
+
 This Workgroup is a part of the CHIPS Alliance Project, a Series of LF Projects, LLC.
 The CHIPS Alliance Technical Steering Committee (“TSC”) created this Workgroup according to the terms of the CHIPS Alliance Technical Steering Committee. 
 On the date noted at the top of this document, the TSC adopted this Charter for the Workgroup.
 All CHIPS Alliance governing documents and policies, including the CHIPS Alliance Technical Charter, Intellectual Property Policy, and any relevant Code of Conduct will apply to this Workgroup by default. Any Charters, constitutions, or other policies specifically adopted for other CHIPS Alliance workgroups will not apply to this Workgroup. 
+
 ## Mission & Scope of the Workgroup
+
 1. The Mission of the Workgroup is to develop and host open source projects with the goals indicated in the “README” file within the Workgroup’s code repository.
 2. The scope of the Workgroup includes [add additional details about intended focus of Workgroup, 2-3 sentences.]
 ## Participants
 The Workgroup technical governance consists of two types of participants: Technical Advisory Committee members and Volunteer Developers (together, the “Participants”).
+
 ## Technical Advisory Committee
+
 ### Role & Responsibilities
+
 The role of the Workgroup Technical Advisory Committee (“TAC”) is to represent the interests of the Participants in the Workgroup and provide active technical leadership for the Workgroup.
+
 The responsibilities of these TAC roles within the Workgroup include: 
 - Merging pull requests and otherwise exercising the role of “Committers” for the Workgroup as defined in the CHIPS Alliance Technical Charter;
 - Facilitating communication and collaboration between TAC members;
@@ -25,7 +34,9 @@ The responsibilities of these TAC roles within the Workgroup include:
 - Determining strategy and promoting the adoption of the Workgroup technology through documentation, talks, or other marketing;
 - Determining whether additional public, open source repositories should be created for the Workgroup; and
 - Determining whether any Workgroup open source collaborations should be wound down and archived on GitHub.
+
 ## Eligibility
+
 Companies who have joined the CHIPS Alliance and signed the CHIPS Alliance Participation Agreement and CHIPS Alliance Contributor License Agreement are eligible to nominate developer representatives to join the Workgroup TAC. 
 
 `[The initial TAC members of the Workgroup will be representatives appointed by [WORKGROUP FOUNDING COMPANIES], with one representative per company.]`
@@ -37,7 +48,9 @@ All TAC technical discussions will be publicly accessible, either on public Work
 Any member of the Workgroup TAC may resign by submitting a pull request to remove their name from the membership list document; the resignation will be considered effectively immediately upon submitting the pull request. The TAC may vote to remove a TAC member by a 2/3 vote with a majority of TAC members participating. A CHIPS Alliance member may remove its TAC member representative or replace its TAC member representative with an alternative employee representative at any time.
 
 The Workgroup TAC members will be listed by name or pseudonym and GitHub username in a document within the Workgroup open source repository. Membership changes are reflected by pull requests against the Workgroup TAC membership list document.
+
 ### TAC Chair
+
 The TAC may elect a Chair on an annual basis based on a majority vote by the TAC members. 
 
 The TAC may determine the date of its annual Chair elections, with additional elections as needed if a Chair resigns or otherwise needs to be replaced. 
@@ -61,7 +74,9 @@ The Workgroup will recognize Volunteer Developers if individuals request to be a
 Volunteer Developers are welcome to join all meetings, mailing lists, and discussions on GitHub. Volunteer Developers do not have any required responsibilities to the Workgroup.
 
 Volunteer Developers may become TAC members according to the process outlined regarding the addition of new members to the TAC.
+
 ## Amendments
+
 This Charter may be amended by a 2/3 vote of the TAC with a participating majority of listed TAC members. The vote may be conducted (1) in a meeting with meeting minutes noting which TAC members were present and how they voted; (2) over email, or (3) via participation in a pull request discussion on GitHub.
 
 Workgroup TAC votes to amend the Workgroup Charter will be subject to a veto by the CHIPS Alliance Board, to be exercised when a Charter amendment may unacceptably depart from the purpose of the CHIPS Alliance or unreasonably increase risk for CHIPS Alliance participants.
