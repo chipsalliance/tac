@@ -27,7 +27,7 @@ The current members of the CHIPS Alliance TSC are:
 | Matt Cockrell      | [mcockrell-google](https://github.com/mcockrell-google) | Google                 | RISC-V DV                 | (appointed) | (appointed) |
 | Tom Michalak       | [tmichalak](https://github.com/tmichalak)               | Antmicro               | F4PGA                     | (appointed) | (appointed) |
 | Mikhail Moiseev    | [mikhailmoiseev](https://github.com/mikhailmoiseev)     | Intel                  | SystemC compiler          | (appointed) | (appointed) |
-| Jiuyang Liu        | [sequencer](https://github.com/sequencer)               | unaffiliated           | Rocket Chip               | (appointed) | (appointed) |
+| Jiuyang Liu        | [sequencer](https://github.com/sequencer)               | PLCT Lab, ISCAS        | Rocket Chip               | (appointed) | (appointed) |
 
 The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
 
