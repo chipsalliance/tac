@@ -39,7 +39,7 @@ The responsibilities of these TAC roles within the Workgroup include:
 
 ## Eligibility
 
-Companies who have joined the CHIPS Alliance and signed the CHIPS Alliance Participation Agreement and CHIPS Alliance Contributor License Agreement are eligible to nominate developer representatives to join the Workgroup TAC. 
+Organizations who have joined the CHIPS Alliance and signed the CHIPS Alliance Participation Agreement and CHIPS Alliance Contributor License Agreement are eligible to nominate developer representatives to join the Workgroup TAC. 
 
 `[The initial TAC members of the Workgroup will be representatives appointed by [WORKGROUP FOUNDING ORGANIZATIONS], with one representative per organization.]`
 
