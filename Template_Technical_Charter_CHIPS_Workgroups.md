@@ -41,7 +41,7 @@ The responsibilities of these TAC roles within the Workgroup include:
 
 Companies who have joined the CHIPS Alliance and signed the CHIPS Alliance Participation Agreement and CHIPS Alliance Contributor License Agreement are eligible to nominate developer representatives to join the Workgroup TAC. 
 
-`[The initial TAC members of the Workgroup will be representatives appointed by [WORKGROUP FOUNDING COMPANIES], with one representative per company.]`
+`[The initial TAC members of the Workgroup will be representatives appointed by [WORKGROUP FOUNDING ORGANIZATIONS], with one representative per organization.]`
 
 Additionally, Volunteer Developers may join the TAC in their individual capacity based on active contribution to the Workgroup open source repositories, subject to a 2/3 approval vote by the existing TAC members, with all existing TAC members participating in the vote. Such TAC membership decisions will be based only on the technical quality of contributions made to the Workgroup open source project.
 
