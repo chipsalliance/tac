@@ -43,7 +43,7 @@ The responsibilities of these TAC roles within the Workgroup include:
 
 Organizations who have joined the CHIPS Alliance and signed the CHIPS Alliance Participation Agreement and CHIPS Alliance Contributor License Agreement are eligible to nominate developer representatives to join the Workgroup TAC. 
 
-Developer representatives may join the TAC subject to a simple majority approval vote by the existing TAC members in attendance of a TAC meeting, provided quorum is met, or by electronic vote without a meeting, with a majority vote of all voting members of the TSC.
+Developer representatives may join the TAC subject to a simple majority approval vote by the existing TAC members in attendance of a TAC meeting, provided quorum is met, or by electronic vote without a meeting, with a majority vote of all voting members of the TAC.
 
 Additionally, Volunteer Developers may join the TAC in their individual capacity based on active contribution to the Workgroup open source repositories, subject to a 2/3 approval vote by the existing TAC members, with all existing TAC members participating in the vote. Such TAC membership decisions will be based only on the technical quality of contributions made to the Workgroup open source project.
 
