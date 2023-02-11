@@ -44,13 +44,11 @@ Projects are organized into Workgroups for the purpose of e.g. organizing meetin
 Currently, the following workgroups have been established:
 
 * Analog
-* Tools
+* Caliptra
 * Chisel
+* F4PGA
 * Rocket
-* Interconnects
-* Cores
-
-(the descriptions for Chisel, Rocket, Interconnects, Cores still need to be added via separate PRs)
+* Tools
 
 ## Getting oriented
 
