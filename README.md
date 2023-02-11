@@ -43,8 +43,8 @@ Projects are organized into Workgroups for the purpose of e.g. organizing meetin
 
 Currently, the following workgroups have been established:
 
-* [Analog](./workgroups/analog/README.md)
-* [Tools](./workgroups/tools/README.md)
+* Analog
+* Tools
 * Chisel
 * Rocket
 * Interconnects
