@@ -3,7 +3,7 @@ title: Tools Workgroup
 leader: Karol Gugala (@kgugala)
 website:
 mailing_list: https://lists.chipsalliance.org/g/tools-wg
-meeting_dates: Every other Friday (currently odd weeks) at 7 a.m. PT
+meeting_dates: Every other Friday (currently even weeks) at 7 a.m. PT
 meeting_link: https://meet.google.com/ncy-rzzp-tfv?hs=122
 ---
 
