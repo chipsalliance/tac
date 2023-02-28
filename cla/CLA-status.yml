@@ -1,9 +1,11 @@
 CLA:
+- AMD
 - Antmicro
 - Google
+- Microsoft
+- Nvidia
 - SiFive
 - Western Digital
-- Nvidia
 OWFa:
 - Google
 - SiFive
