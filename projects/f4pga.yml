@@ -3,13 +3,13 @@ name: F4PGA
 # Project status - sandbox, graduated or archived
 status: graduated
 # Links to project repos - may be one or list of several in YAML list format
-repositories: https://github.com/f4pga/f4pga
+repositories: https://github.com/chipsalliance/f4pga
 # A one-sentence summary of the project
 brief_summary: Free and open source toolchain for FPGA devices
 # The project's open source license, normally Apache 2.0 unless special exception is granted
 license: Apache-2.0
 # Link to issue tracker
-issue_tracker_link: https://github.com/f4pga/f4pga/issues
+issue_tracker_link: https://github.com/chipsalliance/f4pga/issues
 # Link to website
 website_link: https://f4pga.org
 # Links to social media, if present, can be a list, or N/A if none
@@ -30,13 +30,13 @@ primary_contact:
   project_role: Maintainer
 ### Data above this line is needed for Sandbox application, additional data below is needed for Graduated application
 # Data about active project contributors
-active_committers: https://github.com/f4pga/f4pga/graphs/contributors
+active_committers: https://github.com/chipsalliance/f4pga/graphs/contributors
 # Information about project's release methodology and mechanics
 release_methodology: No regular release policy has been adopted as of yet; a policy is going to be developed in collaboration within CHIPS.
 # Link to project's mission statement
-mission_statement_link: https://github.com/f4pga/f4pga/blob/main/README.md
+mission_statement_link: https://github.com/chipsalliance/f4pga/blob/main/README.md
 # Link to logo in .svg format, if present
-svg_logo_link: None
+svg_logo_link: logos/f4pga.svg
 # Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
 accepted_lf_code_of_conduct: yes
 # Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
