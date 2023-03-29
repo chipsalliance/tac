@@ -17,7 +17,7 @@ social_media_links:
   - https://twitter.com/chisel_lang
   - https://gitter.im/freechipsproject/chisel3
 # Brief summary of how widely the project is used e.g. list of companies
-project_usage_and_scale: UCBerkeley (Adept Lab) and SiFive have each used it for many digital designs and tapeouts. UCBerkeley, DTU, and UC Davis use it for digital design education and research. See community tab on website: https://www.chisel-lang.org/community.html.
+project_usage_and_scale: "UCBerkeley (Adept Lab) and SiFive have each used it for many digital designs and tapeouts. UCBerkeley, DTU, and UC Davis use it for digital design education and research. See community tab on website: https://www.chisel-lang.org/community.html."
 # Project's motivation to join CHIPS
 why_join_chips: To ensure long-term governance and maintenance as well as provide conference organization and funding for things like the website or future compute needs (eg. Continuous Integration).
 # The primary contact person for the project, will become TSC representative once admitted
