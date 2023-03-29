@@ -36,7 +36,7 @@ release_methodology: Releases are automated and each submit will result in a rel
 # Link to project's mission statement
 mission_statement_link: https://github.com/chipsalliance/verible#verible
 # Link to logo in .svg format, if present
-svg_logo_link: https://raw.githubusercontent.com/chipsalliance/verible/master/img/verible-logo.svg
+svg_logo_link: logos/verible.svg
 # Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
 accepted_lf_code_of_conduct: yes
 # Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
