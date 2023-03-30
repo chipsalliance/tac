@@ -3,7 +3,7 @@ name: FPGA tool perf
 # Project status - sandbox, graduated or archived
 status: graduated
 # Links to project repos - may be one or list of several in YAML list format
-repositories:  https://github.com/chipsalliance/fpga-tool-perf, https://github.com/f4pga/actions
+repositories: https://github.com/chipsalliance/fpga-tool-perf, https://github.com/f4pga/actions
 # A one-sentence summary of the project
 brief_summary: Framework for automatic FPGA toolchains benchmarking
 # The project's open source license, normally Apache 2.0 unless special exception is granted
@@ -17,7 +17,7 @@ social_media_links: N/A
 # Brief summary of how widely the project is used e.g. list of companies
 project_usage_and_scale: The `fpga-tool-perf` repository is used to automatically benchmark performance of various FPGA toolchains and present the results in a human readable form. The `actions` repository provides a number of useful GitHub actions used for testing and publishing FPGA development tools. The project is used by Google, Antmicro, and the wider open source FPGA community like the VTR project.
 # Project's motivation to join CHIPS
-why_join_chips: Joining CHIPS Alliance will allow to benchmark the performance of various open source or proprietary FPGA toolchains.
+why_join_chips: Joining CHIPS Alliance will help generate more adoption and use cases for the performance measurement framework.
 # The primary contact person for the project, will become TSC representative once admitted
 primary_contact:
   # Contact's full name
