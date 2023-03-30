@@ -11,7 +11,7 @@ license: Apache-2.0
 # Link to issue tracker
 issue_tracker_link: https://github.com/chipsalliance/fpga-tool-perf/issues
 # Link to website
-website_link: N/A
+website_link: https://chipsalliance.github.io/fpga-tool-perf/
 # Links to social media, if present, can be a list, or N/A if none
 social_media_links: N/A
 # Brief summary of how widely the project is used e.g. list of companies
@@ -36,7 +36,7 @@ release_methodology: No regular release policy has been adopted as of yet; a pol
 # Link to project's mission statement
 mission_statement_link: https://github.com/chipsalliance/fpga-tool-perf/blob/main/README.md
 # Link to logo in .svg format, if present
-svg_logo_link: None
+svg_logo_link: logos/fpga-tool-perf.svg
 # Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
 accepted_lf_code_of_conduct: yes
 # Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
