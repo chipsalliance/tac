@@ -1,0 +1,37 @@
+name: Caliptra
+# Project status - sandbox, graduated or archived
+status: sandbox
+# Links to project repos - may be one or list of several in YAML list format
+repositories:
+  - https://github.com/chipsalliance/caliptra
+  - https://github.com/chipsalliance/caliptra-rtl
+  - https://github.com/chipsalliance/caliptra-sw
+  - https://github.com/chipsalliance/caliptra-ureg
+  - https://github.com/chipsalliance/caliptra-dpe
+# A one-sentence summary of the project
+brief_summary: The Caliptra project focuses on development of HW and SW IP for The Caliptra Root of Trust
+# The project's open source license, normally Apache 2.0 unless special exception is granted
+license: Apache-2.0
+# Link to issue tracker
+issue_tracker_link: https://github.com/chipsalliance/Caliptra/issues
+# Link to website
+website_link: https://github.com/chipsalliance/Caliptra/blob/main/README.md
+# Links to social media, if present, can be a list, or N/A if none
+social_media_links: N/A
+# Brief summary of how widely the project is used e.g. list of companies
+project_usage_and_scale: Google, AMD, Microsoft, NVIDIA and other project particupants. 
+# Project's motivation to join CHIPS
+why_join_chips: CHIPS Alliance is a common forum for Caliptra development enabling enable cross-company collaboration, adoption of CHIPS open source RTL tools and collaborative methodologies and outreach to a broader community of interested parties
+# The primary contact person for the project, will become TSC representative once admitted
+primary_contact:
+  # Contact's full name
+  name: Matt Cockrell
+  # Contact's work email
+  email: mcockrell@google.com
+  # Contact's GH handle, without the @
+  github_handle: mcockrell-google
+  # Contact's role in the project
+  project_role: IC
+### Data above this line is needed for Sandbox application, additional data below is needed for Graduated application
+# Link to logo in .svg format, if present
+svg_logo_link: logos/caliptra.svg
