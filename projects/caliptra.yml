@@ -25,13 +25,13 @@ why_join_chips: CHIPS Alliance is a common forum for Caliptra development enabli
 # The primary contact person for the project, will become TSC representative once admitted
 primary_contact:
   # Contact's full name
-  name: Matt Cockrell
+  name: Andres Lagar-Cavilla
   # Contact's work email
-  email: mcockrell@google.com
+  email: andreslc@google.com
   # Contact's GH handle, without the @
-  github_handle: mcockrell-google
+  github_handle: andreslagarcavilla
   # Contact's role in the project
-  project_role: IC
+  project_role: TAC Lead
 ### Data above this line is needed for Sandbox application, additional data below is needed for Graduated application
 # Link to logo in .svg format, if present
 svg_logo_link: logos/caliptra.svg
