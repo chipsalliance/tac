@@ -9,7 +9,7 @@ brief_summary: Support the Chisel Hardware Construction Language and related pro
 # The project's open source license, normally Apache 2.0 unless special exception is granted
 license: Apache-2.0 (formerly BSD)
 # Link to issue tracker
-issue_tracker_links: https://github.com/chipsalliance/chisel/issues
+issue_tracker_link: https://github.com/chipsalliance/chisel/issues
 # Link to website
 website_link: https://www.chisel-lang.org/
 # Links to social media, if present, can be a list, or N/A if none
