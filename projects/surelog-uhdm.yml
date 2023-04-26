@@ -8,7 +8,7 @@ repositories:
 - https://github.com/chipsalliance/UHDM
 - https://github.com/chipsalliance/UHDM-integration-tests
 # A one-sentence summary of the project
-brief_summary: SureLog is a SystemVerilog 2017 Pre-processor, Parser, UHDM Compiler providing IEEE Design/TB VPI and Python AST API. UHDM is the underlying Hardware Data Model framework. More info: https://woset-workshop.github.io/WOSET2020.html#article-10
+brief_summary: 'SureLog is a SystemVerilog 2017 Pre-processor, Parser, UHDM Compiler providing IEEE Design/TB VPI and Python AST API. UHDM is the underlying Hardware Data Model framework. More info: https://woset-workshop.github.io/WOSET2020.html#article-10'
 # The project's open source license, normally Apache 2.0 unless special exception is granted
 license: Apache 2.0
 # Link to issue tracker
