@@ -8,7 +8,8 @@ website_link: "Link to website"
 social_media_links: "Links to social media, if present, can be a list, or N/A if none"
 project_usage_and_scale: "Brief summary of how widely the project is used e.g. list of companies"
 why_join_chips: "Project's motivation to join CHIPS"
-primary_contact: "The primary contact person for the project, will become TSC representative once admitted"
+# The primary contact person for the project, will become TSC representative once admitted
+primary_contact:
   name: "Contact's full name"
   email: "Contact's work email"
   github_handle: "Contact's GH handle, without the @"
