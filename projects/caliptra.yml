@@ -35,3 +35,19 @@ primary_contact:
 ### Data above this line is needed for Sandbox application, additional data below is needed for Graduated application
 # Link to logo in .svg format, if present
 svg_logo_link: logos/caliptra.svg
+# Data about active project contributors
+active_committers: https://github.com/orgs/chipsalliance/teams/caliptra
+# Link to project's mission statement
+mission_statement_link: https://github.com/chipsalliance/Caliptra#organizations
+# Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
+accepted_lf_code_of_conduct: yes
+# Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
+adopted_chips_alliance_ip_policy: yes
+# Did the project put links to CHIPS in the header or footer of its website? If no website, still answer "yes" as declaration of will to do so.
+chips_header_footer_text_on_website: N/A
+# Did the project transfer any registered trademarks and domains to CHIPS? If none are present, still answer "yes" as declaration of intent if that should change.
+trademarks_and_domains_transferred_to_lf: yes
+# Describe briefly the project's security vulnerability reporting process, or just defer to https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities
+security_vulnerabilities_reporting_process: The project will use [CHIPS Alliance's default security policy](https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities)
+# (For specifications only) link to reference implementation of the specification, N/A for non-spec projects
+spec_public_reference_implementation: N/A
