@@ -37,6 +37,8 @@ primary_contact:
 svg_logo_link: logos/caliptra.svg
 # Data about active project contributors
 active_committers: https://github.com/orgs/chipsalliance/teams/caliptra
+# Information about project's release methodology and mechanics
+release_methodology: in development
 # Link to project's mission statement
 mission_statement_link: https://github.com/chipsalliance/Caliptra#organizations
 # Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
