@@ -1,0 +1,49 @@
+# Project name
+name: Chisel
+# Project status - sandbox, graduated or archived
+status: sandbox
+# Links to project repos - may be one or list of several in YAML list format
+repositories: https://github.com/chipsalliance/chisel
+# A one-sentence summary of the project
+brief_summary: Support the Chisel Hardware Construction Language and related projects
+# The project's open source license, normally Apache 2.0 unless special exception is granted
+license: Apache-2.0 (formerly BSD)
+# Link to issue tracker
+issue_tracker_link: https://github.com/chipsalliance/chisel/issues
+# Link to website
+website_link: https://www.chisel-lang.org/
+# Links to social media, if present, can be a list, or N/A if none
+social_media_links:
+  - https://twitter.com/chisel_lang
+  - https://gitter.im/freechipsproject/chisel3
+# Brief summary of how widely the project is used e.g. list of companies
+project_usage_and_scale: "UCBerkeley (Adept Lab) and SiFive have each used it for many digital designs and tapeouts. UCBerkeley, DTU, and UC Davis use it for digital design education and research. See community tab on website: https://www.chisel-lang.org/community.html."
+# Project's motivation to join CHIPS
+why_join_chips: To ensure long-term governance and maintenance as well as provide conference organization and funding for things like the website or future compute needs (eg. Continuous Integration).
+# The primary contact person for the project, will become TSC representative once admitted
+primary_contact: 
+  name: Jack Koenig
+  email: koenig@sifive.com
+  github_handle: https://github.com/jackkoenig
+  project_role: Maintainer/Administrator
+### Data above this line is needed for Sandbox application, additional data below is needed for Graduated application
+# Data about active project contributors
+active_committers: https://github.com/chipsalliance/chisel/graphs/contributors
+# Information about project's release methodology and mechanics
+release_methodology: not yet
+# Link to project's mission statement
+mission_statement_link: N/A
+# Link to logo in .svg format, if present
+svg_logo_link: logos/chisel.svg
+# Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
+accepted_lf_code_of_conduct: not yet
+# Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
+adopted_chips_alliance_ip_policy: not yet
+# Did the project put links to CHIPS in the header or footer of its website? If no website, still answer "yes" as declaration of will to do so.
+chips_header_footer_text_on_website: yes
+# Did the project transfer any registered trademarks and domains to CHIPS? If none are present, still answer "yes" as declaration of intent if that should change.
+trademarks_and_domains_transferred_to_lf: not yet
+# Describe briefly the project's security vulnerability reporting process, or just defer to https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities
+security_vulnerabilities_reporting_process: not yet
+# (For specifications only) link to reference implementation of the specification, N/A for non-spec projects
+spec_public_reference_implementation: N/A

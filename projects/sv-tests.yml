@@ -1,0 +1,51 @@
+# Project name
+name: SV tests
+# Project status - sandbox, graduated or archived
+status: graduated
+# Links to project repos - may be one or list of several in YAML list format
+repositories: https://github.com/chipsalliance/sv-tests
+# A one-sentence summary of the project
+brief_summary: SystemVerilog test framework for checking SV spec support coverage in various open source tools - parsers, linters, formatters etc.
+# The project's open source license, normally Apache 2.0 unless special exception is granted
+license: ISC
+# Link to issue tracker
+issue_tracker_link: https://github.com/chipsalliance/sv-tests/issues
+# Link to website
+website_link: https://chipsalliance.github.io/sv-tests-results/
+# Links to social media, if present, can be a list, or N/A if none
+social_media_links: N/A
+# Brief summary of how widely the project is used e.g. list of companies
+project_usage_and_scale: Google, Antmicro, WDC, numerous users in open source community
+# Project's motivation to join CHIPS
+why_join_chips: To help drive SystemVerilog support in open source ASIC/FPGA tooling
+# The primary contact person for the project, will become TSC representative once admitted
+primary_contact:
+  # Contact's full name
+  name: Tom Gorochowik
+  # Contact's work email
+  email: tgorochowik@antmicro.com
+  # Contact's GH handle, without the @
+  github_handle: tgorochowik
+  # Contact's role in the project
+  project_role: Maintainer
+### Data above this line is needed for Sandbox application, additional data below is needed for Graduated application
+# Data about active project contributors
+active_committers: https://github.com/chipsalliance/sv-tests/graphs/contributors
+# Information about project's release methodology and mechanics
+release_methodology: No regular release policy has been adopted as of yet; a policy is going to be developed in collaboration within CHIPS.
+# Link to project's mission statement
+mission_statement_link: https://github.com/chipsalliance/sv-tests/blob/master/README.md
+# Link to logo in .svg format, if present
+svg_logo_link: None
+# Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
+accepted_lf_code_of_conduct: yes
+# Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
+adopted_chips_alliance_ip_policy: yes
+# Did the project put links to CHIPS in the header or footer of its website? If no website, still answer "yes" as declaration of will to do so.
+chips_header_footer_text_on_website: yes
+# Did the project transfer any registered trademarks and domains to CHIPS? If none are present, still answer "yes" as declaration of intent if that should change.
+trademarks_and_domains_transferred_to_lf: yes
+# Describe briefly the project's security vulnerability reporting process, or just defer to https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities
+security_vulnerabilities_reporting_process: The project will use [CHIPS Alliance's default security policy](https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities)
+# (For specifications only) link to reference implementation of the specification, N/A for non-spec projects
+spec_public_reference_implementation: N/A
