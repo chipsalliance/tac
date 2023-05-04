@@ -14,20 +14,20 @@ Per the Technical Charter, on top of any members appointed in the initial bootst
 
 The current members of the CHIPS Alliance TSC are:
 
-| Name               | GitHub                                                  | Affiliation            | Project                   | Term begins | Term ends   |
-| -------------------| ------------------------------------------------------- | -----------------------|---------------------------|-------------|-------------|
-| Henry Cook (chair) | [hcook](https://github.com/hcook)                       | SiFive                 | (chair)                   | (appointed) | (appointed) |
-| Michael Gielda     | [mgielda](https://github.com/mgielda)                   | Antmicro               | (mktg)                    | (appointed) | (appointed) |
-| Henner Zeller      | [hzeller](https://github.com/hzeller)                   | Google                 | Verible                   | (appointed) | (appointed) |
-| Alain Dargelas     | [alainmarcel](https://github.com/alainmarcel)           | unaffiliated           | Surelog/UHDM              | (appointed) | (appointed) |
-| Mehdi Saligane     | [msaligane](https://github.com/msaligane)               | University of Michigan | OpenFASOC                 | (appointed) | (appointed) |
-| Tom Gorochowik     | [tgorochowik](https://github.com/tgorochowik)           | Antmicro               | SV tests / FPGA tool perf | (appointed) | (appointed) |
-| Maciej Kurc        | [mkurc-ant](https://github.com/mkurc-ant)               | Antmicro               | FPGA Interchange          | (appointed) | (appointed) |
-| David Kehlet       | [dkehlet](https://github.com/dkehlet)                   | Intel                  | AIB                       | (appointed) | (appointed) |
-| Matt Cockrell      | [mcockrell-google](https://github.com/mcockrell-google) | Google                 | RISC-V DV                 | (appointed) | (appointed) |
-| Tom Michalak       | [tmichalak](https://github.com/tmichalak)               | Antmicro               | F4PGA                     | (appointed) | (appointed) |
-| Mikhail Moiseev    | [mikhailmoiseev](https://github.com/mikhailmoiseev)     | Intel                  | SystemC compiler          | (appointed) | (appointed) |
-| Jiuyang Liu        | [sequencer](https://github.com/sequencer)               | PLCT Lab, ISCAS        | Rocket Chip               | (appointed) | (appointed) |
+| Name               | GitHub                                                  | Affiliation            | Project                   |
+| -------------------| ------------------------------------------------------- | -----------------------|---------------------------|
+| Henry Cook (chair) | [hcook](https://github.com/hcook)                       | SiFive                 | (chair)                   |
+| Michael Gielda     | [mgielda](https://github.com/mgielda)                   | Antmicro               | (mktg)                    |
+| Henner Zeller      | [hzeller](https://github.com/hzeller)                   | Google                 | Verible                   |
+| Alain Dargelas     | [alainmarcel](https://github.com/alainmarcel)           | unaffiliated           | Surelog/UHDM              |
+| Mehdi Saligane     | [msaligane](https://github.com/msaligane)               | University of Michigan | OpenFASOC                 |
+| Tom Gorochowik     | [tgorochowik](https://github.com/tgorochowik)           | Antmicro               | SV tests / FPGA tool perf |
+| Maciej Kurc        | [mkurc-ant](https://github.com/mkurc-ant)               | Antmicro               | FPGA Interchange          |
+| David Kehlet       | [dkehlet](https://github.com/dkehlet)                   | Intel                  | AIB                       |
+| Matt Cockrell      | [mcockrell-google](https://github.com/mcockrell-google) | Google                 | RISC-V DV                 |
+| Tom Michalak       | [tmichalak](https://github.com/tmichalak)               | Antmicro               | F4PGA                     |
+| Mikhail Moiseev    | [mikhailmoiseev](https://github.com/mikhailmoiseev)     | Intel                  | SystemC compiler          |
+| Jiuyang Liu        | [sequencer](https://github.com/sequencer)               | PLCT Lab, ISCAS        | Rocket Chip               |
 
 The [Technical Charter](https://technical-charter.chipsalliance.org) describes the composition of the TSC.
 
@@ -37,18 +37,11 @@ In addition to Graduated projects which delegate one member each to the TSC (see
 
 See [Sandbox projects](./projects/sandbox) for a list of projects currently in Sandbox.
 
-## Workgroups list
+## Workgroups
 
 Projects are organized into Workgroups for the purpose of e.g. organizing meetings which aggregate related projects and topical areas.
 
-Currently, the following workgroups have been established:
-
-* Analog
-* Caliptra
-* Chisel
-* F4PGA
-* Rocket
-* Tools
+To see an up-to-date list, visit [the Workgroups section of the CHIPS website](https://www.chipsalliance.org/workgroups/).
 
 ## Getting oriented
 
