@@ -9,7 +9,7 @@ repositories:
   - https://github.com/chipsalliance/caliptra-ureg
   - https://github.com/chipsalliance/caliptra-dpe
 # A one-sentence summary of the project
-brief_summary: The Caliptra project focuses on development of HW and SW IP for The Caliptra Root of Trust
+brief_summary: The Caliptra project focuses on development of HW and SW IP for the Caliptra Root of Trust
 # The project's open source license, normally Apache 2.0 unless special exception is granted
 license: Apache-2.0
 # Link to issue tracker
