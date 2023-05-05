@@ -3,7 +3,9 @@ name: FPGA tool perf
 # Project status - sandbox, graduated or archived
 status: graduated
 # Links to project repos - may be one or list of several in YAML list format
-repositories: https://github.com/chipsalliance/fpga-tool-perf, https://github.com/f4pga/actions
+repositories:
+  - https://github.com/chipsalliance/fpga-tool-perf
+  - https://github.com/f4pga/actions
 # A one-sentence summary of the project
 brief_summary: Framework for automatic FPGA toolchains benchmarking
 # The project's open source license, normally Apache 2.0 unless special exception is granted
