@@ -25,7 +25,7 @@ primary_contact:
   # Contact's work email
   email: mikhail.moiseev@intel.com
   # Contact's GH handle, without the @
-  github_handle: @mikhailmoiseev
+  github_handle: mikhailmoiseev
   # Contact's role in the project
   project_role: Maintainer
 ### Data above this line is needed for Sandbox application, additional data below is needed for Graduated application
