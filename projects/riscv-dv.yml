@@ -1,0 +1,25 @@
+name: RISCV-DV
+status: graduated
+repositories: https://github.com/chipsalliance/riscv-dv
+brief_summary: RISCV-DV is an open source verification tool for RISC-V processors. RISCV-DV is a SystemVerilog based random RISC-V instruction generator that checks the execution against an industry standard ISS for correction and compliance.
+license: Apache 2.0
+issue_tracker_link: https://github.com/chipsalliance/riscv-dv/issues
+website_link: https://github.com/chipsalliance/riscv-dv/issues
+social_media_links: n/a
+project_usage_and_scale: Google, OpenTitan, Western Digital, Andes, and others.
+why_join_chips: To enable the CHIPS Alliance community to design and validate RISC-V CPU Cores.
+primary_contact:
+  name: Matt Cockrell
+  email: mcockrell@google.com
+  github_handle: mcockrell-google
+  project_role: RISCV-DV Subgroup Lead
+active_committers: https://github.com/google/riscv-dv/graphs/contributors
+release_methodology: Last public release is a 0.8. No regular release policy has been adopted as of yet; a policy is going to be developed in collaboration within CHIPS.
+mission_statement_link: https://github.com/google/riscv-dv#overview.
+svg_logo_link: none
+accepted_lf_code_of_conduct: yes
+adopted_chips_alliance_ip_policy: yes
+chips_header_footer_text_on_website: yes
+trademarks_and_domains_transferred_to_lf: n/a
+security_vulnerabilities_reporting_process: The project will use [CHIPS Alliance's default security policy](https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities)
+spec_public_reference_implementation: n/a
