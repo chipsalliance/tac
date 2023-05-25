@@ -30,7 +30,7 @@ primary_contact:
 # Data about active project contributors
 active_committers: https://github.com/chipsalliance/chisel/graphs/contributors
 # Information about project's release methodology and mechanics
-release_methodology: not yet
+release_methodology: As of Chisel 5.0.0 following Semantic Versioning 2.0.0, Chisel3 3.0 - 3.6 followed PVP
 # Link to project's mission statement
 mission_statement_link: N/A
 # Link to logo in .svg format, if present
@@ -40,10 +40,10 @@ accepted_lf_code_of_conduct: not yet
 # Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
 adopted_chips_alliance_ip_policy: not yet
 # Did the project put links to CHIPS in the header or footer of its website? If no website, still answer "yes" as declaration of will to do so.
-chips_header_footer_text_on_website: yes
+chips_header_footer_text_on_website: not yet
 # Did the project transfer any registered trademarks and domains to CHIPS? If none are present, still answer "yes" as declaration of intent if that should change.
-trademarks_and_domains_transferred_to_lf: not yet
+trademarks_and_domains_transferred_to_lf: yes
 # Describe briefly the project's security vulnerability reporting process, or just defer to https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities
-security_vulnerabilities_reporting_process: not yet
+security_vulnerabilities_reporting_process: Please report via Chisel Github repo: https://github.com/chipsalliance/chisel/security/advisories/new
 # (For specifications only) link to reference implementation of the specification, N/A for non-spec projects
-spec_public_reference_implementation: N/A
+spec_public_reference_implementation: No spec for Chisel, but FIRRTL IR has a spec: https://github.com/chipsalliance/firrtl-spec
