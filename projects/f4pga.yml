@@ -1,11 +1,15 @@
 # Project name
-name: F4PGA
+name: F4PGA toolchain, tool perf and interchange format
 # Project status - sandbox, graduated or archived
 status: graduated
 # Links to project repos - may be one or list of several in YAML list format
-repositories: https://github.com/chipsalliance/f4pga
+repositories:
+- https://github.com/chipsalliance/f4pga
+- https://github.com/chipsalliance/fpga-interchange-schema
+- https://github.com/chipsalliance/fpga-tool-perf
+- https://github.com/f4pga/actions
 # A one-sentence summary of the project
-brief_summary: Free and open source toolchain for FPGA devices
+brief_summary: Free and open source toolchain for FPGA devices and associated tooling
 # The project's open source license, normally Apache 2.0 unless special exception is granted
 license: Apache-2.0
 # Link to issue tracker
@@ -15,7 +19,7 @@ website_link: https://f4pga.org
 # Links to social media, if present, can be a list, or N/A if none
 social_media_links: N/A
 # Brief summary of how widely the project is used e.g. list of companies
-project_usage_and_scale: The `F4PGA` project (previously Symbiflow) aims to deliver fully open source end-to-end FPGA toolchain targeting chips from verious vendors. Beside the main toolchain, the project develops many smaller tools easing e.g. research on FPGA security.  The project is used by a wide range of entities - Google, Antmicro (the main contributors), a number of universities and FPGA vendors (QuickLogic), and the wider academic and open source FPGA community.
+project_usage_and_scale: The `F4PGA` project (previously Symbiflow) aims to deliver fully open source end-to-end FPGA toolchain targeting chips from verious vendors. Beside the main toolchain, the project develops many smaller tools for e.g. research on FPGA security. The project is used by a wide range of entities - Google, Antmicro (the main contributors), a number of universities and FPGA vendors (QuickLogic), and the wider academic and open source FPGA community.
 # Project's motivation to join CHIPS
 why_join_chips: Joining CHIPS Alliance will allow a broader adoption of F4PGA and a wider cooperation with CHIPS Alliance members.
 # The primary contact person for the project, will become TSC representative once admitted
