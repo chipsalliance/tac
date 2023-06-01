@@ -5,7 +5,6 @@ status: graduated
 repositories:
   - https://github.com/idea-fasoc/OpenFASOC
   - https://github.com/idea-fasoc
-
 # A one-sentence summary of the project
 brief_summary: Fully Open Source Automated Analog Block Generation built on top of OpenROAD, Magic, Netgen, Klayout and Ngspice
 # The project's open source license, normally Apache 2.0 unless special exception is granted
