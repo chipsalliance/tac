@@ -44,6 +44,6 @@ chips_header_footer_text_on_website: not yet
 # Did the project transfer any registered trademarks and domains to CHIPS? If none are present, still answer "yes" as declaration of intent if that should change.
 trademarks_and_domains_transferred_to_lf: yes
 # Describe briefly the project's security vulnerability reporting process, or just defer to https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities
-security_vulnerabilities_reporting_process: Please report via Chisel Github repo: https://github.com/chipsalliance/chisel/security/advisories/new
+security_vulnerabilities_reporting_process: "Please report via Chisel GitHub repo: https://github.com/chipsalliance/chisel/security/advisories/new"
 # (For specifications only) link to reference implementation of the specification, N/A for non-spec projects
-spec_public_reference_implementation: No spec for Chisel, but FIRRTL IR has a spec: https://github.com/chipsalliance/firrtl-spec
+spec_public_reference_implementation: "No spec for Chisel, but FIRRTL IR has a spec: https://github.com/chipsalliance/firrtl-spec"
