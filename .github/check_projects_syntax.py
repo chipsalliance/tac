@@ -32,7 +32,7 @@ for filename in sys.argv[1:]:
         with open(filename) as f:
             data = yaml.safe_load(f)
     except Exception as e:
-        fail(f"Unable to parse {filename} as yml")
+        fail(f"Unable to parse {filename} as yml: {e}")
 
     # it needs to match fields from sandbox
     if "status" not in data:
