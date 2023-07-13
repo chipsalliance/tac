@@ -32,15 +32,15 @@ active_committers: https://github.com/chipsalliance/chisel/graphs/contributors
 # Information about project's release methodology and mechanics
 release_methodology: As of Chisel 5.0.0 following Semantic Versioning 2.0.0, Chisel3 3.0 - 3.6 followed PVP
 # Link to project's mission statement
-mission_statement_link: N/A
+mission_statement_link: https://github.com/freechipsproject/chisel-lang-governance/blob/407df3f4b02b8be5effc5a39411caacd51d70282/constitution.md#mission-statement
 # Link to logo in .svg format, if present
 svg_logo_link: logos/chisel.svg
 # Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
-accepted_lf_code_of_conduct: not yet
+accepted_lf_code_of_conduct: yes
 # Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
 adopted_chips_alliance_ip_policy: not yet
 # Did the project put links to CHIPS in the header or footer of its website? If no website, still answer "yes" as declaration of will to do so.
-chips_header_footer_text_on_website: not yet
+chips_header_footer_text_on_website: yes
 # Did the project transfer any registered trademarks and domains to CHIPS? If none are present, still answer "yes" as declaration of intent if that should change.
 trademarks_and_domains_transferred_to_lf: yes
 # Describe briefly the project's security vulnerability reporting process, or just defer to https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities
