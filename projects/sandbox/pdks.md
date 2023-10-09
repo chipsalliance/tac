@@ -14,13 +14,13 @@ If a specific field is not applicable to your project (e.g. your project does no
 
 * Project name: Open source PDKs & Workgroup
 * Project repo(s):
- - https://github.com/google/skywater-pdk
- - https://github.com/google/gf180mcu-pdk  
+  - https://github.com/google/skywater-pdk
+  - https://github.com/google/gf180mcu-pdk  
 * Brief summary of the project: Open source process design kits for the SkyWater Technology 130nm and GlobalFoundries 180MCU manufacturing processes.  These GitHub repos are currently maintained by Google, but proposing to move them into CHIPS Alliance and to form a new workgroup for governance moving forward. 
 * Project's open source license: Apache-2.0
 * Link to issue tracker:
- - https://github.com/google/skywater-pdk/issues 
- - https://github.com/google/gf180mcu-pdk/issues 
+  - https://github.com/google/skywater-pdk/issues 
+  - https://github.com/google/gf180mcu-pdk/issues 
 * Link to website: N/A
 * Links to social media accounts: N/A
 * Who uses this project, and at what scale: Commercial chip designers, academic researchers, educators, students, and hobbyists have created over 700 projects based on these PDKs. Projects have been manufactured via Google’s [Open MPW Shuttle program](https://efabless.com/open_shuttle_program) and [efabless’](https://efabless.com/) chipIgnite service.
