@@ -13,7 +13,7 @@ There are three project categories:
 
 ## Sandbox
 
-*[Sandbox projects](https://github.com/chipsalliance/tsc/blob/HEAD/projects/sandbox)* are projects which plan to join the CHIPS Alliance, but have not yet met the prerequisites to formally join. Projects may optionally make use of the Sandbox stage in order to request TSC time and attention in preparing for their application to become a part of CHIPS Alliance.
+Sandbox projects are projects which plan to join the CHIPS Alliance, but have not yet met the prerequisites to formally join. Projects may optionally make use of the Sandbox stage in order to request TSC time and attention in preparing for their application to become a part of CHIPS Alliance.
 
 The Sandbox stage is optional, and Sandbox projects are not yet considered part of CHIPS Alliance.
 
@@ -31,7 +31,7 @@ The Sandbox stage is optional, and Sandbox projects are not yet considered part 
 
 ### Requirements to become a Sandbox project:
 
-1. The project must complete an application based upon the [project application template](./PROJECT_APPLICATION_TEMPLATE.md), copy it to the [sandbox](sandbox) directory, and open a PR against the TSC repo with the `tsc-meeting` and `sandbox-application` labels.
+1. The project must complete an application in the form of a `.yml` file in this directory, and open a PR against the TSC repo with the `tsc-meeting` and `sandbox-application` labels.
 1. The project must join a TSC meeting to present its proposal.
 1. TSC must approve the application as a Sandbox project by majority vote.
 
@@ -39,7 +39,7 @@ When a Sandbox proposal is accepted, the PR may be landed.
 
 ## Graduated
 
-*[Graduated projects](https://github.com/chipsalliance/tsc/blob/HEAD/projects/graduated)* are projects which have applied and been formally accepted as CHIPS Alliance projects by the TSC. Graduated projects are assigned to a Workgroup, and are officially a part of CHIPS Alliance.
+Graduated projects are projects which have applied and been formally accepted as CHIPS Alliance projects by the TSC. Graduated projects are assigned to a Workgroup, and are officially a part of CHIPS Alliance.
 
 However, achieving Graduated status requires more than maturity and adoption. The TSC is run by and for the technical community, and it can only function with involvement from project leaders. Representatives from Graduated projects are expected to take an active role in TSC and CHIPS Alliance processes. For example, participating in TSC meetings, volunteering as a program committee member for events, participating in mentoring initiatives, and helping Sandbox projects prepare for their Graduated status application.
 
@@ -62,7 +62,6 @@ However, achieving Graduated status requires more than maturity and adoption. Th
 * The project must lead by example on adherence to core project policies, such as the Code of Conduct.
 * The project must exemplify the values of CHIPS Alliance and be committed to diversity and inclusion.
 
-
 ### Requirements to become a Graduated project
 
 1. The project must actively work with the TSC as it does due diligence to determine fit.
@@ -71,7 +70,7 @@ However, achieving Graduated status requires more than maturity and adoption. Th
 1. The project must have a [draft mission statement](./MISSION_STATEMENT_TEMPLATE.md) prepared for TSC approval.
 1. The project must internally pre-approve the Code of Conduct, IP Policy, and [header/footer for websites](https://github.com/chipsalliance/tsc/blob/main/README.md#website-footers) so that they are in effect upon project acceptance by the TSC.
 1. The project must be prepared to transfer any registered trademarks and domain names to the Linux Foundation upon acceptance.
-1. The project must complete an application based upon the [project application template](./PROJECT_APPLICATION_TEMPLATE.md) (or modify its existing Sandbox application), copy it to the [graduated](graduated) directory, and open a PR against the TSC repo with the `tsc-meeting` and `graduation-application` labels.
+1. The project must complete an `.yml` application in this directory (perhaps by just extending its existing Sandbox application), set the status in the `.yml` file to "graduated" and open a PR against the TSC repo with the `tsc-meeting` and `graduation-application` labels.
 1. The project must join a TSC meeting to present its proposal.
 1. The TSC must approve the Graduated status application and the project's mission statement by majority vote.
 1. The project must have a documented process for reporting security vulnerabilities, or accept the [default CHIPS Alliance security reporting process](https://github.com/chipsalliance/tsc/blob/main/README.md#reporting-security-vulnerabilities).
@@ -81,7 +80,7 @@ When a Graduated proposal is accepted, the PR may be landed.
 
 ## Archived
 
-*[Archived projects](https://github.com/chipsalliance/tsc/blob/HEAD/projects/archived)* are projects which no longer have sufficient momentum to justify an active state in CHIPS Alliance. By archiving a project, CHIPS Alliance is indicating that downstream users should not expect any updates, including security fixes or backports.
+Archived projects are projects which no longer have sufficient momentum to justify an active state in CHIPS Alliance. By archiving a project, CHIPS Alliance is indicating that downstream users should not expect any updates, including security fixes or backports.
 
 The decision to move a project to Archived is not taken lightly by the TSC, and each situation will be unique.  However, reasons which could lead to an Archived state may include:
 
@@ -99,7 +98,7 @@ The decision to move a project to Archived is not taken lightly by the TSC, and 
 
 ### Requirements to become an Archived project
 
-1. A representative from the project or a TSC voting member should complete the [project archival template](./PROJECT_ARCHIVAL_TEMPLATE.md), copy it to the [archived](archived) directory, and open a PR against the TSC repo with the `tsc-meeting` and `archival-application` labels.
+1. A representative from the project or a TSC voting member should change their projects' `.yml` status to "archived" and open a PR against the TSC repo with the `tsc-meeting` and `archival-application` labels.
 1. A representative from the project or a TSC voting member must join a TSC meeting to present the proposal.
 1. The archival proposal must receive a supermajority vote from TSC voting members.
 
