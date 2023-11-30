@@ -38,7 +38,7 @@ svg_logo_link: logos/chisel.svg
 # Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
 accepted_lf_code_of_conduct: yes
 # Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
-adopted_chips_alliance_ip_policy: not yet
+adopted_chips_alliance_ip_policy: yes
 # Did the project put links to CHIPS in the header or footer of its website? If no website, still answer "yes" as declaration of will to do so.
 chips_header_footer_text_on_website: yes
 # Did the project transfer any registered trademarks and domains to CHIPS? If none are present, still answer "yes" as declaration of intent if that should change.
