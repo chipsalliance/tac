@@ -13,7 +13,9 @@ license: Apache-2.0
 # Link to issue tracker
 issue_tracker_link: https://github.com/google/skywater-pdk/issues
 # Link to website
-website_link: N/A
+website_link:
+  - https://skywater-pdk.readthedocs.io/en/main/
+  - https://gf180mcu-pdk.readthedocs.io/en/latest/
 # Links to social media, if present, can be a list, or N/A if none
 social_media_links: N/A
 # Brief summary of how widely the project is used e.g. list of companies
