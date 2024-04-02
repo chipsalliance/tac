@@ -19,7 +19,7 @@ website_link: https://github.com/chipsalliance/Caliptra/blob/main/README.md
 # Links to social media, if present, can be a list, or N/A if none
 social_media_links: N/A
 # Brief summary of how widely the project is used e.g. list of companies
-project_usage_and_scale: Google, AMD, Microsoft, NVIDIA and other project particupants. 
+project_usage_and_scale: Google, AMD, Microsoft, NVIDIA and other project participants. 
 # Project's motivation to join CHIPS
 why_join_chips: CHIPS Alliance is a common forum for Caliptra development enabling enable cross-company collaboration, adoption of CHIPS open source RTL tools and collaborative methodologies and outreach to a broader community of interested parties
 # The primary contact person for the project, will become TSC representative once admitted
