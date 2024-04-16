@@ -23,3 +23,6 @@ chips_header_footer_text_on_website: yes
 trademarks_and_domains_transferred_to_lf: n/a
 security_vulnerabilities_reporting_process: The project will use [CHIPS Alliance's default security policy](https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities)
 spec_public_reference_implementation: n/a
+# New as of April 2024
+communication_channels: "List project communication channels e.g. Slack, IRC, Mailing Lists"
+financial_sponsorship: "Y/N - is there existing financial sponsorship of the project"

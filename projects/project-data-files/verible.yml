@@ -1,44 +1,42 @@
 # Project name
-name: FPGA tool perf
+name: Verible
 # Project status - sandbox, graduated or archived
 status: graduated
 # Links to project repos - may be one or list of several in YAML list format
-repositories:
-  - https://github.com/chipsalliance/fpga-tool-perf
-  - https://github.com/f4pga/actions
+repositories: https://github.com/chipsalliance/verible
 # A one-sentence summary of the project
-brief_summary: Framework for automatic FPGA toolchains benchmarking
+brief_summary: Parse SystemVerilog (IEEE 1800-2017) with a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server
 # The project's open source license, normally Apache 2.0 unless special exception is granted
-license: Apache-2.0
+license: Apache 2.0
 # Link to issue tracker
-issue_tracker_link: https://github.com/chipsalliance/fpga-tool-perf/issues
+issue_tracker_link: https://github.com/chipsalliance/verible/issues
 # Link to website
-website_link: https://chipsalliance.github.io/fpga-tool-perf/
+website_link:  https://github.com/chipsalliance/verible
 # Links to social media, if present, can be a list, or N/A if none
 social_media_links: N/A
 # Brief summary of how widely the project is used e.g. list of companies
-project_usage_and_scale: The `fpga-tool-perf` repository is used to automatically benchmark performance of various FPGA toolchains and present the results in a human readable form. The `actions` repository provides a number of useful GitHub actions used for testing and publishing FPGA development tools. The project is used by Google, Antmicro, and the wider open source FPGA community like the VTR project.
+project_usage_and_scale: Google, OpenTitan, Antmicro, others
 # Project's motivation to join CHIPS
-why_join_chips: Joining CHIPS Alliance will help generate more adoption and use cases for the performance measurement framework.
+why_join_chips: To establish a wider community and create awareness about the availability of a high-quality open source linting and formatting tool for SystemVerilog.
 # The primary contact person for the project, will become TSC representative once admitted
 primary_contact:
   # Contact's full name
-  name: Tomasz Gorochowik
+  name: Henner Zeller
   # Contact's work email
-  email: tgorochowik@antmicro.com
+  email: hzeller@google.com
   # Contact's GH handle, without the @
-  github_handle: tgorochowik
+  github_handle: hzeller
   # Contact's role in the project
-  project_role: Maintainer
+  project_role: Lead Developers
 ### Data above this line is needed for Sandbox application, additional data below is needed for Graduated application
 # Data about active project contributors
-active_committers: https://github.com/chipsalliance/fpga-tool-perf/graphs/contributors
+active_committers: https://github.com/chipsalliance/verible/graphs/contributors
 # Information about project's release methodology and mechanics
-release_methodology: No regular release policy has been adopted as of yet; a policy is going to be developed in collaboration within CHIPS.
+release_methodology: Releases are automated and each submit will result in a release with downloadable binaries for Linux, Mac and Windows.
 # Link to project's mission statement
-mission_statement_link: https://github.com/chipsalliance/fpga-tool-perf/blob/main/README.md
+mission_statement_link: https://github.com/chipsalliance/verible#verible
 # Link to logo in .svg format, if present
-svg_logo_link: logos/fpga-tool-perf.svg
+svg_logo_link: logos/verible.svg
 # Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
 accepted_lf_code_of_conduct: yes
 # Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
@@ -51,3 +49,6 @@ trademarks_and_domains_transferred_to_lf: yes
 security_vulnerabilities_reporting_process: The project will use [CHIPS Alliance's default security policy](https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities)
 # (For specifications only) link to reference implementation of the specification, N/A for non-spec projects
 spec_public_reference_implementation: N/A
+# New as of April 2024
+communication_channels: "List project communication channels e.g. Slack, IRC, Mailing Lists"
+financial_sponsorship: "Y/N - is there existing financial sponsorship of the project"
