@@ -12,4 +12,4 @@ jobs:
     - uses: actions/setup-python@v4
     - name: Check
       run: |
-        .github/check_projects_syntax.py projects/*yml
+        .github/check_projects_syntax.py projects/project-data-files/*yml

@@ -47,3 +47,6 @@ trademarks_and_domains_transferred_to_lf: yes
 security_vulnerabilities_reporting_process: "Please report via Chisel GitHub repo: https://github.com/chipsalliance/chisel/security/advisories/new"
 # (For specifications only) link to reference implementation of the specification, N/A for non-spec projects
 spec_public_reference_implementation: "No spec for Chisel, but FIRRTL IR has a spec: https://github.com/chipsalliance/firrtl-spec"
+# New as of April 2024
+communication_channels: "List project communication channels e.g. Slack, IRC, Mailing Lists"
+financial_sponsorship: "Y/N - is there existing financial sponsorship of the project"

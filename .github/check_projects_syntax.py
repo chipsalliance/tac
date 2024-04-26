@@ -3,17 +3,12 @@
 import yaml
 import sys
 
-sandbox = {}
-graduated = {}
+application_template = {}
 
-with open("projects/templates/sandbox.yml") as f:
-    sandbox = yaml.safe_load(f)
+with open("projects/templates/project-application-template.yml") as f:
+    application_template = yaml.safe_load(f)
 
-with open("projects/templates/graduated.yml") as f:
-    graduated = yaml.safe_load(f)
-
-# first try to load as sandbox and check status
-
+# try to load check status
 def fail(msg):
     print(msg)
     sys.exit(1)
@@ -41,10 +36,5 @@ for filename in sys.argv[1:]:
     # status needs to be either sandbox, graduated or archived
     if data["status"] not in ["sandbox", "graduated", "archived"]:
         fail(f"{filename}: invalid status")
-
-
-
-    if data["status"] == "sandbox":
-        check(filename, data, sandbox)
-    elif data["status"] == "graduated":
-        check(filename, data, graduated)
+    else:
+        check(filename, data, application_template)
