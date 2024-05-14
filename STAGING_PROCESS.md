@@ -18,7 +18,7 @@ Proposals in this stage are written up in the style of the formal policy or prog
 Proposals in this stage are nearly complete. They may be in a pilot or trial-run mode for a limited audience, or pending legal review. They may be awaiting budget approval. The purpose of this stage is to complete any operational checks, such as acquiring budget, access, or governing board approval if needed, before launching the program.
 
 ### Stage 3 - Complete
-The proposal is now an adopted policy or program of the CHIPS Alliance TSC, and is owned by the committee or role identified. It is expected that the policy or program will be re-evaluated on some regular basis and deprecated if need be.
+The proposal is now an adopted policy or program of the CHIPS Alliance TAC, and is owned by the committee or role identified. It is expected that the policy or program will be re-evaluated on some regular basis and deprecated if need be.
 
 ## Staging proposal template
 
