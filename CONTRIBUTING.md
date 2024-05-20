@@ -2,13 +2,13 @@
 
 CHIPS Alliance is a group of open source projects which develop high-quality, open source hardware designs relevant to silicon devices and FPGAs. By creating an open and collaborative environment, CHIPS Alliance shares resources to lower the cost of development. All CHIPS Alliance development occurs on [GitHub](https://github.com/chipsalliance), following open source best practices.
 
-The technical projects under the CHIPS Alliance TSC are supported by the [CHIPS Alliance](https://chipsalliance.org), an independent nonprofit organization with open and neutral governance, hosted under the [Linux Foundation](https://linuxfoundation.org).
+The technical projects under the CHIPS Alliance TAC are supported by the [CHIPS Alliance](https://chipsalliance.org), an independent nonprofit organization with open and neutral governance, hosted under the [Linux Foundation](https://linuxfoundation.org).
 
 [Learn more about the CHIPS Alliance »](https://chipsalliance.org)
 
 ## Technical governance
 
-CHIPS Alliance follows industry best practices, with the technical project and its governance distinctly separate from [CHIPS Alliance membership](https://chipsalliance.org/join). The [Technical Charter](https://github.com/chipsalliance/tsc/blob/master/https://technical-charter.chipsalliance.org) establishes the CHIPS Alliance Technical Steering Committee as the body which oversees all technical aspects of the open source project. By contrast, the [CHIPS Alliance Governing Board](https://chipsalliance.org/about/governance/) is responsible for raising and distributing funds to support project activities, and setting policy. While the two groups are separate, they work in close coordination to establish, guide, and support activities that lead to a long-term, sustainable future for CHIPS Alliance.
+CHIPS Alliance follows industry best practices, with the technical project and its governance distinctly separate from [CHIPS Alliance membership](https://chipsalliance.org/join). The [Charter](https://participation-agreement.chipsalliance.org/) establishes the CHIPS Alliance Technical Advisory Council (TAC) as the body which oversees all technical aspects of the open source project. By contrast, the [CHIPS Alliance Governing Board](https://chipsalliance.org/about/governance/) is responsible for raising and distributing funds to support project activities, and setting policy. While the two groups are separate, they work in close coordination to establish, guide, and support activities that lead to a long-term, sustainable future for CHIPS Alliance.
 
 ### Contributors
 
@@ -18,7 +18,7 @@ Contributors are any members of the open source community who participate in pro
 
 Committers are members of the contributor community who have demonstrated an ongoing commitment to the health and sustainability of the CHIPS Alliance project through good citizenship and wise stewardship. These individuals have been elevated to a decision-making role, and responsible for reviewing and merging code from contributors. They may also be involved in the release process or other critical project roles.
 
-The path to committership starts with becoming a contributor to the project. Over time, contributors can prove that they have high commitment to the project.  Top contributors may become committers through either a simple majority vote by the existing committers, or by a 2/3 vote of the TSC.  An existing committer may be removed in the same manner.
+The path to committership starts with becoming a contributor to the project. Over time, contributors can prove that they have high commitment to the project.  Top contributors may become committers through either a simple majority vote by the existing committers, or by a 2/3 vote of the TAC.  An existing committer may be removed in the same manner.
 
 Each potential committer should be nominated prior to the vote.  The nomination should include a justification of why that person should become a committer (e.g., code/test/doc contributions, other positive impact to the project & community, etc.).
 
@@ -41,9 +41,9 @@ Committership can be revoked under rare circumstances, such as when a committer 
 
 #### Ensure your contribution complies with the CHIPS Alliance IP Policy
 
-All contributions to CHIPS Alliance projects must adhere to the [CHIPS Alliance IP policy](https://github.com/chipsalliance/tsc/blob/master/https://technical-charter.chipsalliance.org#7-intellectual-property-policy).
+All contributions to CHIPS Alliance projects must adhere to the [CHIPS Alliance IP policy](https://participation-agreement.chipsalliance.org/).
 
-Please review the [Technical Charter](https://technical-charter.chipsalliance.org) to ensure you understand the requirements of the open source project. If you have questions, please [file an issue](https://github.com/chipsalliance/tsc/issues).
+Please review the [Charter](https://participation-agreement.chipsalliance.org/) to ensure you understand the requirements of the open source project. If you have questions, please [file an issue](https://github.com/chipsalliance/tsc/issues).
 
 #### Sign the CLA
 

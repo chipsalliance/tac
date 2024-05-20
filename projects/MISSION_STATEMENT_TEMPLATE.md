@@ -1,6 +1,6 @@
 # (your project name) Mission Statement
 
-The purpose of this document is to provide a brief introduction to a project or workgroup from a technical, community, or business perspective. The document also connects a project's community leadership and governance with the CHIPS Alliance TSC's governance.
+The purpose of this document is to provide a brief introduction to a project or workgroup from a technical, community, or business perspective. The document also connects a project's community leadership and governance with the CHIPS Alliance TAC's governance.
 
 ## Guiding Principles (optional)
 

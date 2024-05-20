@@ -6,7 +6,7 @@ This governance policy describes how an open source project can formally join th
 
 There are three project categories:
 
-* [Sandbox](#sandbox): Optional pre-membership stage to help a project prepare for the TSC's consideration.
+* [Sandbox](#sandbox): Optional pre-membership stage to help a project prepare for the TAC's consideration.
 * [Graduated](#graduated): A project which has met the graduation requirements and demonstrated sustainable momentum.
 * [Archived](#archived): A former Graduated project which has been archived for strategic or practical reasons.
 
