@@ -41,7 +41,7 @@ Committership can be revoked under rare circumstances, such as when a committer 
 
 #### Ensure your contribution complies with the CHIPS Alliance IP Policy
 
-All contributions to CHIPS Alliance projects must adhere to the [CHIPS Alliance IP policy]().
+All contributions to CHIPS Alliance projects must adhere to the [CHIPS Alliance IP policy](https://participation-agreement.chipsalliance.org/).
 
 Please review the [Charter](https://participation-agreement.chipsalliance.org/) to ensure you understand the requirements of the open source project. If you have questions, please [file an issue](https://github.com/chipsalliance/tsc/issues).
 
