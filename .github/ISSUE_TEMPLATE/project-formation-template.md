@@ -14,19 +14,19 @@ Project Repository {REPO}
 
 ### Project Checklist
 
-- [ ]  TAC Vote **Date**
+- [ ] TAC Vote **Date**
 - [ ] New Project Created In LFX
-- [ ]  Legal Submission
-   - [ ]  Project formation form submitted by project 
-   - [ ]  Technical Charter Draft Approved
-   - [ ]  Contribution Agreement Approved
+- [ ] Legal Submission
+   - [ ] Project formation form submitted by project 
+   - [ ] Technical Charter Draft Approved
+   - [ ] Contribution Agreement Approved
    - [ ] Trademark Docs Approved
-- [ ]  Board Vote  **Date**
+- [ ] Board Vote  **Date**
 - [ ] Project made active in PCC by notifying the formation team
-- [ ]  Merge PR & Confirm Website Is Accurate
-- [ ]  Add ‘thelinuxfoundation’ as an owner of the GitHub org
-- [ ]  Transfer any domains
-- [ ]  Onboard to LFX/Community Metrics/Insights
-- [ ]  Enforce CLA on repo(s)
-- [ ]  Accept/adopt LF code of conduct
-- [ ]  Enable security vulnerability reporting process
+- [ ] Merge PR & Confirm Website Is Accurate
+- [ ] Add ‘thelinuxfoundation’ as an owner of the GitHub org
+- [ ] Transfer any domains
+- [ ] Onboard to LFX/Community Metrics/Insights
+- [ ] Enforce CLA on repo(s)
+- [ ] Accept/adopt LF code of conduct
+- [ ] Enable security vulnerability reporting process
