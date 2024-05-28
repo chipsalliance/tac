@@ -24,6 +24,7 @@ The current members of the CHIPS Alliance TAC are:
 | Prabhu Jayanna          |                                                         | AMD                    | Platinum Voting Rep       |
 | Bryan Kelly             | [bryankel](https://github.com/Bryankel)                 | Microsoft              | Platinum Voting Rep       |
 | Mirjana Videnovic-Misic |                                                         | Infineon               | Platinum Voting Rep       |
+| Aaron Cunningham        |                                                         | Google                 | Platinum Voting Rep       |
 
 ## Sandbox projects list
 
