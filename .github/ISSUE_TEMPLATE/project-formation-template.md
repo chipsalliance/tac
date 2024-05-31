@@ -10,7 +10,8 @@ assignees: bensternthal
 ## Project Documentation & Links
 
 Project Name: {NAME}
-Project Repository {REPO}
+Project Repository: {REPO}
+Application PR: {LINK TO PR}
 
 ### Project Checklist
 
