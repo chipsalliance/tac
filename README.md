@@ -20,7 +20,7 @@ The current members of the CHIPS Alliance TAC are:
 | ------------------------| ------------------------------------------------------- | -----------------------|---------------------------|
 | Stephano Cetola (Chair) | [cetola](https://github.com/cetola)                     | Intel                  | Platinum Voting Rep       |
 | Michael Gielda          | [mgielda](https://github.com/mgielda)                   | Antmicro               | Platinum Voting Rep       |
-| Danny Hua               |                                                         | Futurewei              | Platinum Voting Rep       |
+| Robert Chu            |                                                         | Futurewei              | Platinum Voting Rep       |
 | Prabhu Jayanna          |                                                         | AMD                    | Platinum Voting Rep       |
 | Bryan Kelly             | [bryankel](https://github.com/Bryankel)                 | Microsoft              | Platinum Voting Rep       |
 | Mirjana Videnovic-Misic |                                                         | Infineon               | Platinum Voting Rep       |
