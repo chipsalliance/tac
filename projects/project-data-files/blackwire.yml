@@ -1,6 +1,6 @@
 # General Information
 name: "Blackwire"
-status: "Desired Project Status - sandbox, We have achieved POC and are on 75% completion." 
+status: sandbox # We have achieved POC and are on 75% completion.
 brief_summary: "Full inline accelerator of WireGuard"
 website_link: "Link to website if applicable"
 social_media_links: "Will be created after TAC vote"
