@@ -1,0 +1,31 @@
+# General Information
+name: "Blackwire"
+status: "Desired Project Status - sandbox, We have achieved POC and are on 75% completion." 
+brief_summary: "Full inline accelerator of WireGuard"
+website_link: "Link to website if applicable"
+social_media_links: "Will be created after TAC vote"
+project_usage_and_scale: "We have interest from several parties, and to serve them the final 25% needs to be finalised."
+why_join_chips: "We believe that WireGuard currently is the only sensible way forward for network security. It also allows it to be later updated to become Quantum resistant."
+mission_statement_link: "Create a secure open source network security solution to connect everything that is part of the open source Linux ecosystem."
+svg_logo_link: "Link to logo in .svg format, if present"
+# The primary contact person for the project, will become TAC representative once admitted
+primary_contact:
+  name: "Ben Knijff"
+  email: "b.c.knijff@fpgahouse.com"
+  github_handle: "brightai-nl"
+  project_role: "Product owner"
+# Contributor & Technical Information  
+repositories: "https://github.com/orgs/brightai-nl/repositories"
+issue_tracker_link: "To be defined"
+active_committers: "Null"
+release_methodology: "The project is released to the Chips alliance, and in January of 2025 FPGA House will create a cash reward for the team that finishes the remaining 25% of the project, and will provide necessary hardware to create the first real world adoption of the code."
+communication_channels: "Null"
+# Legal Information
+license: "GNU General Public License v2.0"
+financial_sponsorship: "Y - is there existing financial sponsorship of the project"
+accepted_lf_code_of_conduct: "Y - will the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/"
+adopted_chips_alliance_ip_policy: "Y - will the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org"
+chips_header_footer_text_on_website: "Y - will the project put links to CHIPS in the header or footer of its website? If no website, still answer 'yes' as declaration of will to do so."
+trademarks_and_domains_transferred_to_lf: "Y - will the project transfer any registered trademarks and domains to CHIPS? If none are present, still answer 'yes' as declaration of intent if that should change."
+security_vulnerabilities_reporting_process: "Describe briefly the project's security vulnerability reporting process, or just defer to https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities"
+spec_public_reference_implementation: "(For specifications only) link to reference implementation of the specification, N/A for non-spec projects"
