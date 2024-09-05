@@ -2,7 +2,7 @@
 name: "Blackwire"
 status: sandbox # We have achieved POC and are on 75% completion.
 brief_summary: "Full inline accelerator of WireGuard"
-website_link: ""
+website_link: "https://github.com/brightai-nl/BlackwireOverview/"
 social_media_links: "Will be created after TAC vote"
 project_usage_and_scale: "We have interest from several parties, and to serve them the final 25% needs to be finalised."
 why_join_chips: "We believe that WireGuard currently is the only sensible way forward for network security. It also allows it to be later updated to become Quantum resistant."
