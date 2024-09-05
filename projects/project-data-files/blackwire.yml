@@ -2,7 +2,7 @@
 name: "Blackwire"
 status: sandbox # We have achieved POC and are on 75% completion.
 brief_summary: "Full inline accelerator of WireGuard"
-website_link: "Link to website if applicable"
+website_link: ""
 social_media_links: "Will be created after TAC vote"
 project_usage_and_scale: "We have interest from several parties, and to serve them the final 25% needs to be finalised."
 why_join_chips: "We believe that WireGuard currently is the only sensible way forward for network security. It also allows it to be later updated to become Quantum resistant."
@@ -16,7 +16,7 @@ primary_contact:
   project_role: "Product owner"
 # Contributor & Technical Information  
 repositories: "https://github.com/orgs/brightai-nl/repositories"
-issue_tracker_link: "To be defined"
+issue_tracker_link: "https://github.com/brightai-nl/BlackwireOverview/issues"
 active_committers: "Null"
 release_methodology: "The project is released to the Chips alliance, and in January of 2025 FPGA House will create a cash reward for the team that finishes the remaining 25% of the project, and will provide necessary hardware to create the first real world adoption of the code."
 communication_channels: "Null"
