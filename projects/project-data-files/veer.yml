@@ -13,7 +13,7 @@ mission_statement_link:
   - https://github.com/chipsalliance/Cores-VeeR-EL2/blob/main/README.md
   - https://github.com/chipsalliance/Cores-VeeR-EH2/blob/main/README.md
   - https://github.com/chipsalliance/Cores-VeeR-EH1/blob/main/README.md
-svg_logo_link: N/A
+svg_logo_link: logos/veer.svg
 # The primary contact person for the project, will become TSC representative once admitted
 primary_contact:
   name: Tomasz Michalak
