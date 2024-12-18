@@ -32,14 +32,14 @@ This document outlines the policies and guidelines for creating **new** reposito
     - Direct Operation: The repository must be directly operated by a CHIPS Alliance project.
     - Clear Identification: The project affiliation should be evident in the repository’s description and documentation.
 
-#### Repository Naming Conventions
+#### Recommended Repository Naming Conventions
 
-To maintain a clear and organized repository structure, all repositories should follow a consistent and descriptive naming
+To maintain a clear and organized repository structure, we recommend repositories follow a consistent and descriptive naming
 convention. This practice helps in grouping related repositories together when sorted alphabetically.
 
 #####  Naming Guidelines
 
-- Format: Use the following format for repository names:
+- Format: We recommend but do not enforece the following format for repository names:
 
 ```
 [project-name]
@@ -65,6 +65,7 @@ convention. This practice helps in grouping related repositories together when s
 - Consistency: Ensure consistent use of project names and descriptors across all repositories.
 - Clarity: Choose descriptors that clearly reflect the content or purpose of the repository.
 - Avoid Abbreviations: Unless commonly understood, avoid using abbreviations that might confuse contributors or users.
+- Ensure that your [project's .yaml file](https://github.com/chipsalliance/tac/tree/main/projects/project-data-files) is kept up to date and lists all the public repositories associated with your project. 
 
 #### Compliance and Enforcement
 
