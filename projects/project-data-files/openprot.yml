@@ -1,0 +1,35 @@
+# General Information
+name: "OpenPRoT"
+status: "sandbox"
+brief_summary: "OpenPRoT is a specification and an open-source implementation of a standards-based Platform Root of Trust firmware stack."
+website_link: "https://github.com/chipsalliance/OpenPRoT"
+social_media_links: "N/A"
+project_usage_and_scale: "AMD, Google, Nuvoton, Aspeed, Jabil, and other interested parties"
+why_join_chips: "CHIPS Alliance is a common forum for OpenPRoT development enabling enable cross-company collaboration, adoption of collaborative methodologies and outreach to a broader community of interested parties"
+mission_statement_link: "TBD"
+svg_logo_link: "TBD"
+# The primary contact person for the project, will become TAC representative once admitted
+primary_contact:
+  name: "Louis Ferraro"
+  email: "louis.ferraro@amd.com"
+  github_handle: "ferralCoder"
+  project_role: "Tech Lead"
+# Contributor & Technical Information
+repositories: "https://github.com/chipsalliance/OpenPRoT"
+issue_tracker_link: "https://github.com/chipsalliance/OpenPRoT/issues"
+active_committers: "https://github.com/orgs/chipsalliance/teams/OpenPRoT"
+release_methodology: "GitHub Releases"
+communication_channels: "openprot.slack.com"
+# Legal Information
+license: "Apache-2.0"
+financial_sponsorship: "Y"
+# Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
+accepted_lf_code_of_conduct: "Y"
+# Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
+adopted_chips_alliance_ip_policy: "Y"
+# Did the project put links to CHIPS in the header or footer of its website? If no website, still answer "yes" as declaration of will to do so.
+chips_header_footer_text_on_website: N/A
+trademarks_and_domains_transferred_to_lf: "Y - we have a domain to transfer. We request trademark support from CHIPS Alliance"
+# Describe briefly the project's security vulnerability reporting process, or just defer to https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities
+security_vulnerabilities_reporting_process: The project will use [CHIPS Alliance's default security policy](https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities)
+spec_public_reference_implementation: "N/A - all in the same repo"
