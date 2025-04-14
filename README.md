@@ -21,10 +21,9 @@ The current members of the CHIPS Alliance TAC are:
 | Stephano Cetola         | [cetola](https://github.com/cetola)                     | Intel                  | Platinum Voting Rep       |
 | Michael Gielda          | [mgielda](https://github.com/mgielda)                   | Antmicro               | Platinum Voting Rep       |
 | Robert Chu              |                                                         | Futurewei              | Platinum Voting Rep       |
-| Prabhu Jayanna          |                                                         | AMD                    | Platinum Voting Rep       |
+| John Traver         |                                                         | AMD                    | Platinum Voting Rep       |
 | Bryan Kelly             | [bryankel](https://github.com/Bryankel)                 | Microsoft              | Platinum Voting Rep       |
-| Mirjana Videnovic-Misic |                                                         | Infineon               | Platinum Voting Rep       |
-| Aaron Cunningham (Chair)|                                                         | Google                 | Platinum Voting Rep       |
+| Aaron Cunningham (Chair)| [cunninghamsandwich](https://github.com/cunninghamsandwich)                                                        | Google                 | Platinum Voting Rep       |
 
 ## Sandbox projects list
 
