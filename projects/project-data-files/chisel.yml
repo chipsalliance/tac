@@ -1,7 +1,7 @@
 # Project name
 name: Chisel
 # Project status - sandbox, graduated or archived
-status: sandbox
+status: graduated
 # Links to project repos - may be one or list of several in YAML list format
 repositories: https://github.com/chipsalliance/chisel
 # A one-sentence summary of the project
