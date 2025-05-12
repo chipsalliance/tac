@@ -24,6 +24,10 @@ The current members of the CHIPS Alliance TAC are:
 | John Traver         |                                                         | AMD                    | Platinum Voting Rep       |
 | Bryan Kelly             | [bryankel](https://github.com/Bryankel)                 | Microsoft              | Platinum Voting Rep       |
 | Aaron Cunningham (Chair)| [cunninghamsandwich](https://github.com/cunninghamsandwich)                                                        | Google                 | Platinum Voting Rep       |
+| Jack Koenig | [jackkoenig](https://github.com/jackkoenig) | Chisel                 |  Voting Rep       |
+
+
+
 
 ## Sandbox projects list
 
