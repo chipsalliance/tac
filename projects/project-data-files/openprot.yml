@@ -1,0 +1,31 @@
+# General Information
+name: OpenPRoT
+status: sandbox
+brief_summary: A Platform Root of Trust firmware stack targeting new and existing PRoT hardware implementations.
+website_link: N/A
+social_media_links: N/A
+project_usage_and_scale: A collaboration between AMD, Google, Nuvoton, ASPEED Technology, and Jabil
+why_join_chips: CHIPS Alliance provides a collaborative platform for members to develop this new open source firmware project.
+mission_statement_link: N/A
+svg_logo_link: N/A
+# The primary contact person for the project, will become TAC representative once admitted
+primary_contact:
+  name: Louis Ferraro
+  email: louis.ferraro@amd.com
+  github_handle: FerralCoder
+  project_role: Project Lead
+# Contributor & Technical Information  
+repositories: N/A, will be created as part of sandbox onboarding
+issue_tracker_link: N/A, will be created as part of sandbox onboarding
+active_committers: N/A
+release_methodology: TBD
+communication_channels: N/A, will be created as part of sandbox onboarding
+# Legal Information
+license: Apache 2.0
+financial_sponsorship: Yes
+accepted_lf_code_of_conduct: Yes
+adopted_chips_alliance_ip_policy: Yes
+chips_header_footer_text_on_website: Yes
+trademarks_and_domains_transferred_to_lf: Yes
+security_vulnerabilities_reporting_process: Defer to https://github.com/chipsalliance/tsc#reporting-security-vulnerabilities
+spec_public_reference_implementation: TBD
