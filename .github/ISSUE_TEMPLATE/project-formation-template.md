@@ -17,11 +17,10 @@ Application PR: {LINK TO PR}
 
 - [ ] TAC Vote **Date**
 - [ ] New Project Created In LFX
-- [ ] Legal Submission
-   - [ ] Project formation form submitted by project 
-   - [ ] Technical Charter Draft Approved
-   - [ ] Contribution Agreement Approved
-   - [ ] Trademark Docs Approved
+- [ ] Legal: Project formation form submitted by project 
+- [ ] Legal: Technical Charter Draft Approved
+- [ ] Legal: Contribution Agreement Approved
+- [ ] Legal: Trademark Docs Approved
 - [ ] Board Vote  **Date**
 - [ ] Project made active in PCC by notifying the formation team
 - [ ] Merge PR & Confirm Website Is Accurate
