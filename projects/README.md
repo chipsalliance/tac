@@ -43,7 +43,7 @@ Once a project passes Technical Review, the TAC will inform the Governing Board 
 
 #### Legal Submission
 
-After a successful TAC vote, the project is ready for a legal review. The legal review is initiated by the project working with the CHIPS operations team. The LF project onboarding team will create a draft Technical Charter, a draft Project Contribution Agreement (if needed), and a draft Series Agreement.
+After a successful TAC vote, the project is ready for a legal review. The legal review is initiated by the project working with the CHIPS operations team. The LF project onboarding team will create a draft Technical Charter, a draft [Project Contribution Agreement](https://docs.google.com/document/d/1E6ZszuLEt-4blfhe7fCASY4cjJCAEAFqZI5fdd3-lqg/edit?usp=sharing) (if needed), and a draft Series Agreement.
 
 As noted in clause 10 of the CHIPS Alliance Charter,  CHIPS requires that any trademarks be transferred to, or be available for use by, LF Projects, LLC. Even if no trademarks exist, the current CP policy is that projects be submitted to LF Projects, LLC.
 
