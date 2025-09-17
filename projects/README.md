@@ -121,13 +121,12 @@ However, achieving Graduated status requires more than maturity and adoption. Th
 1. The project must internally pre-approve the Code of Conduct, IP Policy, and [header/footer for websites](https://github.com/chipsalliance/tsc/blob/main/README.md#website-footers) so that they are in effect upon project acceptance by the TAC.
 1. The project must complete an `.yml` application in this directory, set the status in the `.yml` file to "graduated" and open a PR against the TAC repo with the `tac-meeting` and `graduation-application` labels.
 1. The project must join a TAC meeting to present its proposal.
-1. The TAC must approve the Graduated status application and the project's mission statement by majority vote.
 1. The project must have a documented process for reporting security vulnerabilities, or accept the [default CHIPS Alliance security reporting process](https://github.com/chipsalliance/tsc/blob/main/README.md#reporting-security-vulnerabilities).
-1. The project must receive a supermajority vote from TAC voting members.
 1. The project must work with CHIPs To Sign Technical Charter / Participation Agreement / Assign Trademark  
 1. The project must adopt and enforce the CLA
-2. The project must be approved by a vote of the CHIPS Alliance Governing Board
-3. The project must add ‘thelinuxfoundation’ GitHub user as an owner to all repositories
+1. The TAC must approve the Graduated status application and the project's mission statement by majority vote.
+1. The project must be approved by a vote of the CHIPS Alliance Governing Board
+1. The project must add ‘thelinuxfoundation’ GitHub user as an owner to all repositories
 
 When a Graduated proposal is accepted, the PR may be landed.
 
