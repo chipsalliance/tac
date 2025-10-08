@@ -1,13 +1,13 @@
 # General Information
 name: "OpenPRoT"
-status: "sandbox"
+status: "graduated"
 brief_summary: "OpenPRoT is a specification and an open-source implementation of a standards-based Platform Root of Trust firmware stack."
-website_link: "https://github.com/chipsalliance/OpenPRoT"
+website_link: "https://openprot.github.io/openprot/"
 social_media_links: "N/A"
 project_usage_and_scale: "AMD, Google, Nuvoton, Aspeed, Jabil, and other interested parties"
 why_join_chips: "CHIPS Alliance is a common forum for OpenPRoT development enabling enable cross-company collaboration, adoption of collaborative methodologies and outreach to a broader community of interested parties"
-mission_statement_link: "TBD"
-svg_logo_link: "TBD"
+mission_statement_link: "https://github.com/OpenPRoT/.github/blob/main/GOVERNANCE.md"
+svg_logo_link: "N/A"
 # The primary contact person for the project, will become TAC representative once admitted
 primary_contact:
   name: "Louis Ferraro"
@@ -15,9 +15,9 @@ primary_contact:
   github_handle: "ferralCoder"
   project_role: "Tech Lead"
 # Contributor & Technical Information
-repositories: "https://github.com/chipsalliance/OpenPRoT"
-issue_tracker_link: "https://github.com/chipsalliance/OpenPRoT/issues"
-active_committers: "https://github.com/orgs/chipsalliance/teams/OpenPRoT"
+repositories: "https://github.com/OpenPRoT"
+issue_tracker_link: "https://github.com/OpenPRoT/openprot/issues"
+active_committers: "https://github.com/OpenPRoT/openprot/graphs/contributors"
 release_methodology: "GitHub Releases"
 communication_channels: "openprot.slack.com"
 # Legal Information
