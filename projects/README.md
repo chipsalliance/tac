@@ -155,3 +155,19 @@ The decision to move a project to Archived is not taken lightly by the TAC, and 
 1. The archival proposal must receive a supermajority vote from TAC voting members.
 
 When an Archival proposal is accepted, the PR may be landed.
+
+## Checklist Template For Onboarding Projects Github Issue
+
+- [ ] [PROJECT] TAC Vote
+- [ ] [PROJECT] Project Submitted To Formation Team
+- [ ] [PROJECT] Technical Charter Approved
+- [ ] [PROJECT] Contribution Agreement Completed
+- [ ] [PROJECT] Governing Board Vote
+- [ ] [PROJECT] Project Set To Active In LFX
+- [ ] [PROJECT] Merge PR With .yml File
+- [ ] [PROJECT] Add ‘thelinuxfoundation’ as an owner to any GitHub orgs or repos
+- [ ] [PROJECT] Enforce IP Policy on repo(s)
+- [ ] [PROJECT] Complete Domain Transfers
+- [ ] [PROJECT] Accept/adopt code of conduct
+- [ ] [PROJECT] Enable security vulnerability reporting process
+- [ ] [PROJECT]  Adopt Approved Header & Footer
