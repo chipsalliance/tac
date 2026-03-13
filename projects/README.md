@@ -171,3 +171,4 @@ When an Archival proposal is accepted, the PR may be landed.
 - [ ] [PROJECT] Accept/adopt code of conduct
 - [ ] [PROJECT] Enable security vulnerability reporting process
 - [ ] [PROJECT]  Adopt Approved Header & Footer
+- [ ] [PROJECT] Add Project To LFX Insights
