@@ -70,6 +70,6 @@ At this point, your PRs will no longer be blocked by EasyCLA on any CHIPS Allian
 
 ## Getting help
 
-If your company is in the system but you don't know who your CLA manager is, you can email [operations@chipsalliance.org](mailto:operations@chipsalliance.org).
+If your company is in the system but you don't know who your CLA manager is, you can email [support@chipsalliance.org](mailto:support@chipsalliance.org).
 
 If you run into issues, you can [open a ticket in JIRA](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143).
