@@ -273,7 +273,7 @@ The TAC may choose to move repositories to an archived state, at its own discret
 
 Membership in the CHIPS Alliance helps to fund collaborative infrastructure used by our projects.
 
-For help with project infrastructure please contact [operations@chipsalliance.org](mailto:operations@chipsalliance.org). Examples of ways the Linux Foundation can help include:
+For help with project infrastructure please contact [support@chipsalliance.org](mailto:support@chipsalliance.org). Examples of ways the Linux Foundation can help include:
 
 * Adding and removing members from GitHub teams
 * Creating and archiving repositories
@@ -285,11 +285,11 @@ For help with project infrastructure please contact [operations@chipsalliance.or
 
 #### New members
 
-CHIPS Alliance welcomes new members, and we would be happy to help answer any questions you may have. To learn more about membership, please visit [https://chipsalliance.org/join](https://chipsalliance.org/join) or email [membership@chipsalliance.org](mailto:membership@chipsalliance.org).
+CHIPS Alliance welcomes new members, and we would be happy to help answer any questions you may have. To learn more about membership, please visit [https://chipsalliance.org/join](https://chipsalliance.org/join) or email [support@chipsalliance.org](mailto:support@chipsalliance.org).
 
 #### Existing members
 
-CHIPS Alliance members can get help with anything related to their membership by emailing [operations@chipsalliance.org](mailto:operations@chipsalliance.org).
+CHIPS Alliance members can get help with anything related to their membership by emailing [support@chipsalliance.org](mailto:support@chipsalliance.org).
 
 ### Help with press and media
 
@@ -297,7 +297,7 @@ For help with press and media inquiries, or to let the CHIPS Alliance marketing 
 
 ### All other topics
 
-For any other topics which aren't covered above, please email [operations@chipsalliance.org](mailto:operations@chipsalliance.org).
+For any other topics which aren't covered above, please email [support@chipsalliance.org](mailto:support@chipsalliance.org).
 
 ---
 

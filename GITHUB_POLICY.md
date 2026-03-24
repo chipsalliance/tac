@@ -75,5 +75,5 @@ convention. This practice helps in grouping related repositories together when s
 
 #### Support and Resources
 
-- Assistance with CLA: For help setting up CLA enforcement, contact [operations@chipsalliance.org](mailto:operations@chipsalliance.org).
-- Questions and Clarifications: For any questions regarding these policies, reach out to the TAC or [operations@chipsalliance.org](mailto:operations@chipsalliance.org).
+- Assistance with CLA: For help setting up CLA enforcement, contact [support@chipsalliance.org](mailto:support@chipsalliance.org).
+- Questions and Clarifications: For any questions regarding these policies, reach out to the TAC or [support@chipsalliance.org](mailto:support@chipsalliance.org).
