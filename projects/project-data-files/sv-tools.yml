@@ -4,6 +4,7 @@ name: SV tools
 status: graduated
 # Links to project repos - may be one or list of several in YAML list format
 repositories:
+  - https://github.com/chipsalliance/sv-tools
   - https://github.com/chipsalliance/verible
   - https://github.com/chipsalliance/verible-actions-common
   - https://github.com/chipsalliance/verible-linter-action
