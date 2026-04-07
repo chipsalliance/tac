@@ -93,7 +93,7 @@ Projects join CHIPS Alliance by following the [Project Lifecycle Process](./proj
 
 ### Resources
 
-All Graduated projects can make use of the CHIPS Alliance collaboration resourcs, including:
+All Graduated projects can make use of the CHIPS Alliance collaboration resources, including:
 
 * Access to the shared Zoom account
 * Meetings listed on the public [CHIPS Alliance calendar](https://calendar.chipsalliance.org)
