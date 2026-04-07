@@ -31,15 +31,9 @@ In addition to Graduated projects which delegate one member each to the TAC (see
 
 See [Sandbox projects](./projects/sandbox) for a list of projects currently in Sandbox.
 
-## Workgroups
-
-Projects are organized into Workgroups for the purpose of e.g. organizing meetings which aggregate related projects and topical areas.
-
-To see an up-to-date list, visit [the Workgroups section of the CHIPS website](https://www.chipsalliance.org/workgroups/).
-
 ## Getting oriented
 
-This repo documents the day-to-day policies and procedures of the CHIPS Alliance TAC. It provides a framework for self-governance, and addresses topics too granular for the [Charter](https://participation-agreement.chipsalliance.org/).
+This repo documents the day-to-day policies and procedures of the CHIPS Alliance TAC. It provides a frame for self-governance, and addresses topics too granular for the [Charter](https://participation-agreement.chipsalliance.org/).
 
 This repository has the following structure:
 
@@ -53,7 +47,7 @@ Here are some other links to help you find your way:
 * [An introduction to our collaboration tools](#collaboration-tools)
 * [Our policies and procedures](#policies-and-procedures)
 * [The current voting members of the TAC](#tac-voting-members-and-graduated-projects) (please note anyone can participate in our [meetings](#calendars-and-meetings) as a non-voting attendee)
-* [Projects and Workgroups of the CHIPS Alliance](#projects-and-workgroups)
+* [CHIPS Alliance projects](#projects)
 
 Finally, if you need help, please [reach out and ask](#getting-help).
 
@@ -74,9 +68,9 @@ The CHIPS Alliance maintains a [public calendar](https://calendar.chipsalliance.
 CHIPS Alliance uses Zoom for meetings. Because we work in a highly distributed environment and will rarely meet in person, participants are encouraged to use video as appropriate.
 
 
-## Projects and Workgroups
+## Projects
 
-The TAC is granted oversight over all CHIPS Alliance technical projects and workgroups. In CHIPS Alliance, similar technical projects are organized into workgroups. Each project is represented within the workgroup's internal governance structure. 
+The TAC is granted oversight over all CHIPS Alliance technical projects.
 
 ### Mission statements
 
@@ -84,20 +78,15 @@ Each project must have a mission statement ([template](./projects/MISSION_STATEM
 
 ### Lifecycle
 
-Each project is categorized according to a [project lifecycle process](./projects/), managed by the TAC. Projects and workgroups will have different maturity levels, and the lifecycle process seeks to balance their needs and expectations with available resources.
+Each project is categorized according to a [project lifecycle process](./projects/), managed by the TAC. Projects will have different maturity levels, and the lifecycle process seeks to balance their needs and expectations with available resources.
 
 #### Project categories
 
 * **[Sandbox](projects/README.md#sandbox)**: Optional pre-membership stage to help a project prepare for the TAC's consideration. Sandbox projects are not yet part of CHIPS Alliance, but may be allocated TAC resources to help with the process.
-* **[Graduated](projects/README.md#graduated)**: A project which has been accepted by the TAC, assigned to a workgroup, met the graduation requirements, and demonstrated sustainable momentum.
+* **[Graduated](projects/README.md#graduated)**: A project which has been accepted by the TAC, met the graduation requirements, and demonstrated sustainable momentum.
 * **[Archived](projects/README.md#archived)**: A former Graduated project which has been archived for strategic or practical reasons.
 
-#### Workgroup levels
-
-* **Active**: Contains at least one Graduated project, or a majority of the TAC has voted to create the workgroup to collaborate on future projects.
-* **Archived**: No longer contains any Graduated projects.
-
-The TAC has sole authority over a project's lifecycle stage and workgroup, including the decision to accept or reject project proposals. It also may create or consolidate workgroups at its discretion.
+The TAC has sole authority over a project's lifecycle stage, including the decision to accept or reject project proposals.
 
 #### Instantiating projects
 
@@ -105,7 +94,7 @@ Projects join CHIPS Alliance by following the [Project Lifecycle Process](./proj
 
 ### Resources
 
-All Graduated projects and Active workgroups can make use of the CHIPS Alliance collaboration resourcs, including:
+All Graduated projects can make use of the CHIPS Alliance collaboration resources, including:
 
 * Access to the shared Zoom account
 * Meetings listed on the public [CHIPS Alliance calendar](https://calendar.chipsalliance.org)
