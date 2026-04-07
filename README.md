@@ -14,20 +14,15 @@ Per the Charter, the voting members of the TAC are composed of one representativ
 
 The current members of the CHIPS Alliance TAC are:
 
-
-
-| Name                    | GitHub                                                  | Affiliation            | Role / Projec             |
-| ------------------------| ------------------------------------------------------- | -----------------------|---------------------------|
-| Stephano Cetola         | [cetola](https://github.com/cetola)                     | Intel                  | Platinum Voting Rep       |
-| Michael Gielda          | [mgielda](https://github.com/mgielda)                   | Antmicro               | Platinum Voting Rep       |
-| Robert Chu              |                                                         | Futurewei              | Platinum Voting Rep       |
-| John Traver         |                                                         | AMD                    | Platinum Voting Rep       |
-| Bryan Kelly             | [bryankel](https://github.com/Bryankel)                 | Microsoft              | Platinum Voting Rep       |
-| Aaron Cunningham (Chair)| [cunninghamsandwich](https://github.com/cunninghamsandwich)                                                        | Google                 | Platinum Voting Rep       |
-| Jack Koenig | [jackkoenig](https://github.com/jackkoenig) | Chisel                 |  Voting Rep       |
-
-
-
+| Name                    | GitHub                                                      | Affiliation            | Role / Project       |
+| ------------------------| ----------------------------------------------------------- | -----------------------|----------------------|
+| Michael Gielda          | [mgielda](https://github.com/mgielda)                       | Antmicro               | Platinum Voting Rep  |
+| Robert Chu              |                                                             | Futurewei              | Platinum Voting Rep  |
+| John Traver             |                                                             | AMD                    | Platinum Voting Rep  |
+| Bryan Kelly             | [bryankel](https://github.com/Bryankel)                     | Microsoft              | Platinum Voting Rep  |
+| Aaron Cunningham (Chair)| [cunninghamsandwich](https://github.com/cunninghamsandwich) | Google                 | Platinum Voting Rep  |
+| Jack Koenig             | [jackkoenig](https://github.com/jackkoenig)                 | Chisel                 | Project Voting Rep   |
+| Chris Bieganski         | [kbieganski](kbieganski)                                    | Antmicro               | Project Voting Rep   |
 
 ## Sandbox projects list
 
