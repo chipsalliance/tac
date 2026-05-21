@@ -3,16 +3,12 @@ name: VeeR
 status: graduated
 brief_summary: RTL designs for the VeeR (Very Efficient & Elegant RISC-V) cores (EH1, EH2, EL2).
 website_link:
-  - https://github.com/chipsalliance/Cores-VeeR-EL2#readme
-  - https://github.com/chipsalliance/Cores-VeeR-EH2#readme
-  - https://github.com/chipsalliance/Cores-VeeR-EH1#readme
+  - https://github.com/chipsalliance/VeeR
 social_media_links: N/A
-project_usage_and_scale: Google, AMD, Microsoft, NVIDIA and other project participants.
+project_usage_and_scale: Google, AMD, Microsoft, NVIDIA, Qualcomm, Western Digital, Antmicro and other project participants.
 why_join_chips: CHIPS Alliance will help generate more adoption and use cases for the VeeR cores from a broader community of interested parties.
 mission_statement_link:
-  - https://github.com/chipsalliance/Cores-VeeR-EL2/blob/main/README.md
-  - https://github.com/chipsalliance/Cores-VeeR-EH2/blob/main/README.md
-  - https://github.com/chipsalliance/Cores-VeeR-EH1/blob/main/README.md
+  - https://github.com/chipsalliance/VeeR
 svg_logo_link: logos/veer.svg
 # The primary contact person for the project, will become TSC representative once admitted
 primary_contact:
@@ -22,6 +18,8 @@ primary_contact:
   project_role: Co-Maintainer
 # Contributor & Technical Informantion
 repositories:
+  - https://github.com/chipsalliance/VeeR
+  - https://github.com/chipsalliance/guineveer
   - https://github.com/chipsalliance/Cores-VeeR-EL2
   - https://github.com/chipsalliance/Cores-VeeR-EH2
   - https://github.com/chipsalliance/Cores-VeeR-EH1
@@ -34,7 +32,7 @@ active_committers:
   - https://github.com/chipsalliance/Cores-VeeR-EH2/graphs/contributors
   - https://github.com/chipsalliance/Cores-VeeR-EH1/graphs/contributors
 release_methodology: No regular release policy has been adopted as of yet; a policy is going to be developed in collaboration within CHIPS.
-communication_channels: "CHIPS Alliance Slack channels, mailinig lists, GitHub Issues"
+communication_channels: "CHIPS Alliance Slack channels, mailing lists, GitHub Issues"
 # Legal
 license: Apache-2.0
 financial_sponsorship: N/A
