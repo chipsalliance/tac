@@ -17,13 +17,13 @@ The current members of the CHIPS Alliance TAC are:
 | Name                    | GitHub                                                      | Affiliation            | Role / Project      |
 | ----------------------- | ----------------------------------------------------------- | ---------------------- |-------------------- |
 | Michael Gielda          | [mgielda](https://github.com/mgielda)                       | Antmicro               | Platinum Voting Rep |
-| Robert Chu              |                                                             | Futurewei              | Platinum Voting Rep |
-| John Traver             |                                                             | AMD                    | Platinum Voting Rep |
+| John Traver             | [JohnTraverAmd](https://github.com/JohnTraverAmd)           | AMD                    | Platinum Voting Rep |
 | Bryan Kelly             | [bryankel](https://github.com/Bryankel)                     | Microsoft              | Platinum Voting Rep |
 | Aaron Cunningham (Chair)| [cunninghamsandwich](https://github.com/cunninghamsandwich) | Google                 | Platinum Voting Rep |
 | Jack Koenig             | [jackkoenig](https://github.com/jackkoenig)                 | Chisel                 | Project Voting Rep  |
 | Chris Bieganski         | [kbieganski](https://github.com/kbieganski)                 | SV Tools               | Project Voting Rep  |
 | Louis Ferraro           | [FerralCoder](https://github.com/FerralCoder)               | OpenPRoT               | Project Voting Rep  |
+| Tomasz Michalak         | [tmichalak](https://github.com/tmichalak)                   | VeeR                   | Project Voting Rep  |
 
 ## Sandbox projects list
 
