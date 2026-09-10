@@ -58,7 +58,7 @@ release_methodology: Varies according to specific tool.
 # Link to project's mission statement
 mission_statement_link: https://github.com/chipsalliance/sv-tools/blob/main/README.md
 # Link to logo in .svg format, if present
-svg_logo_link: None
+svg_logo_link: logos/sv-tools.svg
 # Did the project accept the LF Code of Conduct? See https://lfprojects.org/policies/code-of-conduct/
 accepted_lf_code_of_conduct: yes
 # Did the project adopt the CHIPS Alliance IP Policy? See https://technical-charter.chipsalliance.org
