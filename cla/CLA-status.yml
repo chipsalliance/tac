@@ -8,24 +8,33 @@ CLA:
   - Axiado
   - Cycuity
   - Danmarks Tekniske Universitet - DTU
+  - Donmakino LLC
   - ExpectedIT GmbH
   - FADU Inc
+  - Felsite Technologies
   - Google LLC
   - Hewlett-Packard Enterprise
   - Imperas Software Ltd
   - Intel Corporation
+  - Jabil Circuit, Inc.
+  - JDWK Inc.
   - lowRISC C.I.C.
   - LUBIS EDA
   - Marvell Semiconductors Ltd
+  - Meta Platforms, Inc.
+  - MicroAlchemy
   - Microchip Technology Inc.
   - Micron Technology
   - Microsoft Corporation
+  - NCC Group
   - Niobium Microsystems
   - Nuvoton Technology Israel Ltd
   - NVIDIA Corporation
+  - OpenHW Foundation
   - Qualcomm Technologies, Inc.
   - Samsung
   - ScaleFlux
+  - Semitech Semiconductor
   - SiFive, Inc.
   - Silicon Motion
   - SK Hynix
@@ -39,6 +48,7 @@ OWFa:
   - ASPEED Technology Inc.
   - Element Labs
   - Google LLC
+  - Jabil Circuit, Inc.
   - Micron Technology
   - NVIDIA Corporation
   - SanDisk Technologies, Inc.
